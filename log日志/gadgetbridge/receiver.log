@@ -1,0 +1,20 @@
+2017-06-30 13:16:19,194 INFO  [aspectJ.TestReceiver]-[34] 当前切点：call(DiscoveryActivity.registerReceiver(..))
+registerNum=1
+2017-06-30 13:18:34,565 INFO  [aspectJ.TestReceiver]-[34] 当前切点：call(DiscoveryActivity.registerReceiver(..))
+registerNum=2
+2017-06-30 13:18:34,975 INFO  [aspectJ.TestReceiver]-[49] 当前切点：call(DiscoveryActivity.unregisterReceiver(..))
+unRegisterNum=1
+2017-06-30 13:18:36,729 INFO  [aspectJ.TestReceiver]-[49] 当前切点：call(DiscoveryActivity.unregisterReceiver(..))
+unRegisterNum=2
+2017-06-30 13:18:39,648 INFO  [aspectJ.TestReceiver]-[34] 当前切点：call(DebugActivity.registerReceiver(..))
+registerNum=3
+2017-06-30 13:19:17,078 INFO  [aspectJ.TestReceiver]-[34] 当前切点：call(DiscoveryActivity.registerReceiver(..))
+registerNum=4
+2017-06-30 13:19:17,434 INFO  [aspectJ.TestReceiver]-[49] 当前切点：call(DebugActivity.unregisterReceiver(..))
+unRegisterNum=3
+2017-06-30 13:19:43,653 INFO  [aspectJ.TestReceiver]-[34] 当前切点：call(DiscoveryActivity.registerReceiver(..))
+registerNum=5
+2017-06-30 13:19:44,002 INFO  [aspectJ.TestReceiver]-[49] 当前切点：call(DiscoveryActivity.unregisterReceiver(..))
+unRegisterNum=4
+2017-06-30 13:19:46,367 INFO  [aspectJ.TestReceiver]-[49] 当前切点：call(DiscoveryActivity.unregisterReceiver(..))
+unRegisterNum=5

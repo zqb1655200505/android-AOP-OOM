@@ -1,0 +1,18 @@
+2017-06-30 13:06:46,881 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileOutputStream.close())
+closeNum=1
+调用位置为：FileUtils.java
+2017-06-30 13:06:47,156 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=2
+调用位置为：<Unknown>
+2017-06-30 13:06:47,161 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=3
+调用位置为：<Unknown>
+2017-06-30 13:16:11,011 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileOutputStream.close())
+closeNum=1
+调用位置为：FileUtils.java
+2017-06-30 13:16:11,241 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=2
+调用位置为：<Unknown>
+2017-06-30 13:16:11,247 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=3
+调用位置为：<Unknown>

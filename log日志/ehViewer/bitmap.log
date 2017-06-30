@@ -1,0 +1,1077 @@
+2017-06-29 22:34:42,825 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=11
+调用位置为：DecodeJob.java
+2017-06-29 22:34:42,875 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=8
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,875 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=2
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,875 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=8
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,875 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=8
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,881 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=9
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,881 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=9
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,881 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=9
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,881 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=9
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,882 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=1
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,882 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=1
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,882 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=1
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,882 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=1
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=6
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=6
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=6
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=6
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,891 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=5
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,899 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=9
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,913 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,916 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=11
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,917 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=13
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,917 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=13
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,926 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=13
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,931 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=13
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,934 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=14
+调用位置为：Downsampler.java
+2017-06-29 22:34:42,934 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=17
+调用位置为：StreamLocalUriFetcher.java
+2017-06-29 22:34:42,939 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:42,939 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=14
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,228 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=32
+调用位置为：DecodeJob.java
+2017-06-29 22:34:47,228 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=32
+调用位置为：DecodeJob.java
+2017-06-29 22:34:47,228 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=15
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,235 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=33
+调用位置为：DecodeJob.java
+2017-06-29 22:34:47,236 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=15
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=16
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=16
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=16
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,244 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,251 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,262 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=27
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,312 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,312 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,312 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,315 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,315 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=31
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,315 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=31
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=29
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=29
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=29
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=29
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=29
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,329 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,329 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,329 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,329 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,329 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,329 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=32
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,334 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,334 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：Downsampler.java
+2017-06-29 22:34:47,340 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=34
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,389 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=35
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,413 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=35
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,442 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=36
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,469 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=36
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,610 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=40
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,612 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=40
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,615 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=28
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:51,615 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=65
+调用位置为：DecodeJob.java
+2017-06-29 22:34:51,615 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=41
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,619 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=29
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:51,619 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=40
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,619 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=40
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=66
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=66
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=66
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,792 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,792 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=45
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,792 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=45
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,792 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,798 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=47
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,803 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=50
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,809 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=49
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,829 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,829 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,829 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,834 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=52
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,834 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=52
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,834 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=52
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,842 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=52
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,830 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,830 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,830 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:51,830 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：Downsampler.java
+2017-06-29 22:34:52,505 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=54
+调用位置为：Downsampler.java
+2017-06-29 22:34:52,517 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=54
+调用位置为：Downsampler.java
+2017-06-29 22:34:52,523 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=54
+调用位置为：Downsampler.java
+2017-06-29 22:34:52,523 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=54
+调用位置为：Downsampler.java
+2017-06-29 22:34:52,542 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=54
+调用位置为：Downsampler.java
+2017-06-29 22:34:52,542 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=54
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,710 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=56
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,711 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=56
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,719 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=56
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,719 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=56
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,721 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=33
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:54,721 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=33
+调用位置为：FileToStreamDecoder.java
+2017-06-29 22:34:54,740 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=57
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,755 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=58
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,865 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=60
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,891 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=62
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,896 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=62
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,907 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=63
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,925 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=64
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,936 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=64
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,941 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=64
+调用位置为：Downsampler.java
+2017-06-29 22:34:54,941 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=64
+调用位置为：Downsampler.java
+2017-06-29 22:35:13,962 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=65
+调用位置为：FileHelper.java
+2017-06-29 22:35:13,971 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=65
+调用位置为：FileHelper.java
+2017-06-29 22:35:13,985 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=66
+调用位置为：FileHelper.java
+2017-06-29 22:35:13,987 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=66
+调用位置为：FileHelper.java
+2017-06-29 22:35:13,997 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=67
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,000 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=67
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,010 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=68
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,012 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=68
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,025 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=69
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,027 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=69
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,044 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=70
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,046 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=70
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,058 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=71
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,060 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=71
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,072 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=72
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,074 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=72
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,084 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=73
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,086 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=73
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,095 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=74
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,097 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=74
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,107 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=75
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,109 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=75
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,120 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=76
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,126 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=76
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,136 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=77
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,138 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=77
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,147 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=78
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,149 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=78
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,159 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=79
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,161 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=79
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,170 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=80
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,173 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=80
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,185 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=81
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,187 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=81
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,202 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=82
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,204 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=82
+调用位置为：FileHelper.java
+2017-06-29 22:35:14,256 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=86
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,262 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=90
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,266 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=90
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,266 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=90
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,266 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=90
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,271 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=90
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,283 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=91
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,285 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=91
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,285 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=91
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,292 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,292 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,294 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,294 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,294 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,294 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,294 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=94
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,294 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=94
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,300 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,300 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,300 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,300 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,300 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,300 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,304 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,324 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,737 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=99
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,739 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=99
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,761 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=101
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,763 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=100
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,768 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,769 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=101
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,779 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,855 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=104
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,863 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=104
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,877 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=104
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,882 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=105
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,889 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=108
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,889 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=108
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,889 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=108
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,889 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=108
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,894 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=110
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,896 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=109
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,896 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=110
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,896 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=109
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,907 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=110
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,910 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=110
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,914 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=111
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,917 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=111
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,927 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=111
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,927 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=111
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,970 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=113
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,981 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=113
+调用位置为：Downsampler.java
+2017-06-29 22:35:14,984 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=113
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,004 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=113
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,004 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=113
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,023 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=114
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,034 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=114
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,242 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=115
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,245 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=115
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,258 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=116
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,260 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=116
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,267 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=117
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,269 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=117
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,273 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=118
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,284 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=118
+调用位置为：Downsampler.java
+2017-06-29 22:35:15,294 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=122
+调用位置为：StreamLocalUriFetcher.java
+2017-06-29 22:35:18,292 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=119
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,295 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=119
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,312 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=120
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,315 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=120
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,406 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=121
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,409 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=121
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,425 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=122
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,428 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=122
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,517 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=123
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,519 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=123
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,535 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=124
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,538 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=124
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,794 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=125
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,797 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=125
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,806 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=126
+调用位置为：Downsampler.java
+2017-06-29 22:35:18,808 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=126
+调用位置为：Downsampler.java
+2017-06-29 22:35:18,811 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=128
+调用位置为：Downsampler.java
+2017-06-29 22:35:18,814 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=128
+调用位置为：Downsampler.java
+2017-06-29 22:35:18,814 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=128
+调用位置为：Downsampler.java
+2017-06-29 22:35:18,814 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=128
+调用位置为：FileHelper.java
+2017-06-29 22:35:18,814 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=128
+调用位置为：FileHelper.java
+2017-06-29 22:35:45,358 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=129
+调用位置为：PersonalActivity.java
+2017-06-29 22:35:45,361 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=129
+调用位置为：PersonalActivity.java

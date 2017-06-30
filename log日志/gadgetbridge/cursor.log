@@ -1,0 +1,36 @@
+2017-06-30 13:06:47,221 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=1
+调用位置为：AbstractDao.java
+2017-06-30 13:06:47,226 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：AbstractDao.java
+2017-06-30 13:16:11,298 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=1
+调用位置为：AbstractDao.java
+2017-06-30 13:16:11,315 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：AbstractDao.java
+2017-06-30 13:16:17,468 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=2
+调用位置为：AbstractDao.java
+2017-06-30 13:16:17,472 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：AbstractDao.java
+2017-06-30 13:16:17,477 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=3
+调用位置为：AbstractDao.java
+2017-06-30 13:16:17,497 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=3
+调用位置为：AbstractDao.java
+2017-06-30 13:18:49,684 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：GBDeviceService.java
+2017-06-30 13:19:10,835 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：GBDeviceService.java
+2017-06-30 13:19:13,305 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=6
+调用位置为：GBDeviceService.java
+2017-06-30 13:19:14,452 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：GBDeviceService.java

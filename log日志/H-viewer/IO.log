@@ -1,0 +1,486 @@
+2017-06-30 14:34:11,616 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=1
+调用位置为：ProcessUtil.java
+2017-06-30 14:34:13,202 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=1
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,112 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ByteArrayInputStream(..))
+openNum=2
+调用位置为：DeviceConfig.java
+2017-06-30 14:34:14,220 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=3
+调用位置为：DeviceConfig.java
+2017-06-30 14:34:14,232 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream.close())
+closeNum=2
+调用位置为：DeviceConfig.java
+2017-06-30 14:34:14,234 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=4
+调用位置为：DeviceConfig.java
+2017-06-30 14:34:14,239 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream.close())
+closeNum=3
+调用位置为：DeviceConfig.java
+2017-06-30 14:34:14,392 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=5
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,399 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=4
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,401 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=6
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,405 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=5
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,414 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：IdTracker.java
+2017-06-30 14:34:14,422 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=6
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,441 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=8
+调用位置为：UTDIdTracker.java
+2017-06-30 14:34:14,445 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=7
+调用位置为：HelperUtils.java
+2017-06-30 14:34:14,469 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ByteArrayOutputStream.close())
+closeNum=8
+调用位置为：DeflaterHelper.java
+2017-06-30 14:34:14,651 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=9
+调用位置为：DocumentUtil.java
+2017-06-30 14:34:14,651 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=43
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,056 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=11
+调用位置为：HelperUtils.java
+2017-06-30 14:34:15,057 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=46
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,062 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=12
+调用位置为：HelperUtils.java
+2017-06-30 14:34:15,063 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=46
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=14
+调用位置为：Entities.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=14
+调用位置为：Entities.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=14
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=14
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=47
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=47
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,469 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=15
+调用位置为：NetworkHelper.java
+2017-06-30 14:34:15,608 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=16
+调用位置为：HelperUtils.java
+2017-06-30 14:34:15,615 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=17
+调用位置为：FileHelper.java
+2017-06-30 14:34:15,617 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=18
+调用位置为：HelperUtils.java
+2017-06-30 14:34:15,932 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=20
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,932 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=20
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,932 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=20
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,932 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=20
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,932 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=13
+调用位置为：BitmapUtil.java
+2017-06-30 14:34:15,932 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=13
+调用位置为：BitmapUtil.java
+2017-06-30 14:34:15,941 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=12
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:15,943 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=12
+调用位置为：BitmapUtil.java
+2017-06-30 14:34:15,948 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=24
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:15,948 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=24
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:15,999 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=25
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:16,002 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=26
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:16,006 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=19
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:18,124 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:18,124 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=28
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:19,742 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=25
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:19,742 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=29
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:19,746 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=25
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:19,746 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=30
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:33,629 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=31
+调用位置为：DocumentUtil.java
+2017-06-30 14:34:34,057 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:34,057 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=32
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:34,060 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=34
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:34,060 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=33
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:34,094 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=36
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:34,094 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=36
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:34,117 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=38
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:34,122 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=39
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:34:34,124 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=42
+调用位置为：ArtDecoder.java
+2017-06-30 14:35:00,646 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileInputStream(..))
+openNum=9
+调用位置为：LocalFileFetchProducer.java
+2017-06-30 14:35:00,654 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=40
+调用位置为：NativePooledByteBufferFactory.java
+2017-06-30 14:35:01,163 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=41
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:35:01,349 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=42
+调用位置为：DocumentUtil.java
+2017-06-30 14:35:01,607 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=43
+调用位置为：FileHelper.java
+2017-06-30 14:35:06,008 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=44
+调用位置为：DocumentUtil.java
+2017-06-30 14:36:04,764 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=45
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:04,764 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=63
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,771 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=63
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,771 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=46
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:04,823 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=47
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:04,824 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=66
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,827 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=48
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:04,827 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=66
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,839 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=49
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:04,845 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=50
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:04,909 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=51
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:04,911 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=52
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:04,916 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=72
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,977 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=54
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:04,978 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=235
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,198 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=55
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:05,202 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=78
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:05,202 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=56
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:20,639 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=57
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:20,640 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=81
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,642 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=58
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:20,642 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=81
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,705 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=59
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:20,705 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=84
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,709 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=60
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:20,770 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=61
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:20,770 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=87
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,773 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=62
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:20,774 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=87
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,798 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=63
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:20,798 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=90
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,800 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=64
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:20,800 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=90
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,891 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=93
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,891 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=65
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:20,895 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=66
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:20,897 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=93
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:20,964 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=68
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:21,052 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=69
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:21,052 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=99
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:21,055 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=70
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:21,055 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=99
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:21,212 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=71
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:21,213 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:21,215 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=102
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:21,215 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=72
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:21,416 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=105
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:21,416 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=73
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:21,419 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=74
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:21,419 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=105
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,136 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=108
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,136 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=75
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,139 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=108
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,139 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=76
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,180 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=77
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,182 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=78
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,183 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=111
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,225 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=79
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,225 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=114
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,229 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=80
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,229 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=114
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,287 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=81
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,287 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=117
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,291 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=82
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,335 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=83
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,335 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=120
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,340 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=84
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,342 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=120
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,450 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=85
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,452 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=86
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,501 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=88
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,502 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=88
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,502 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=88
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,504 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=126
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,504 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=126
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,608 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=90
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,611 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=90
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,715 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=132
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,715 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=91
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,719 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=92
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,719 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=132
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,942 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=93
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:22,942 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=135
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,947 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=94
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,947 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=135
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:34,682 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=95
+调用位置为：DocumentUtil.java
+2017-06-30 14:36:40,641 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=96
+调用位置为：DocumentUtil.java
+2017-06-30 14:36:40,658 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=97
+调用位置为：DocumentUtil.java
+2017-06-30 14:36:42,992 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=98
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:42,992 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:42,996 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=138
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:42,996 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=99
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:44,783 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=100
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:36:44,783 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=141
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:44,788 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=101
+调用位置为：DefaultDiskStorage.java

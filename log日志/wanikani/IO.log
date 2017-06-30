@@ -1,0 +1,930 @@
+2017-06-30 13:14:10,156 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=1
+调用位置为：Utils.java
+2017-06-30 13:14:10,641 INFO  [aspectJ.TestIOStream]-[38] 当前切点：call(BufferedInputStream(..))
+openNum=1
+调用位置为：MarkableInputStream.java
+2017-06-30 13:14:10,653 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=2
+调用位置为：Utils.java
+2017-06-30 13:14:25,149 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=3
+调用位置为：Utils.java
+2017-06-30 13:14:28,826 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=4
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:29,319 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=5
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:29,745 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=6
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:30,188 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=7
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:30,196 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=8
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:30,299 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=9
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:30,369 INFO  [aspectJ.TestIOStream]-[38] 当前切点：call(BufferedInputStream(..))
+openNum=2
+调用位置为：MarkableInputStream.java
+2017-06-30 13:14:30,390 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=10
+调用位置为：Utils.java
+2017-06-30 13:14:30,467 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=11
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:30,703 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=12
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:30,796 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=13
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:31,076 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=14
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:31,124 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=15
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:31,599 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=16
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:31,638 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=17
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:32,222 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:32,237 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=19
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:32,837 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:32,842 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=21
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:33,211 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=22
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:33,864 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=23
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:34,436 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=24
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:35,113 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=25
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:35,769 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=26
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:36,358 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=27
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:36,716 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=28
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,087 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=29
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,352 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=31
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,352 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=31
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,352 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=31
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,352 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=31
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,597 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=32
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,631 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=33
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,915 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=34
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:37,950 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=35
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:38,212 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=36
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:38,301 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=37
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:38,575 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=38
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:38,617 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=39
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:38,932 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,006 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=41
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,085 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=42
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,260 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=43
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,387 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=44
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,549 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=45
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,572 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,914 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=47
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:39,926 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=48
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:40,523 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=50
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:40,523 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=50
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:40,523 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=50
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:40,523 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=50
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:41,195 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=52
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:41,798 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=53
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:41,803 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=54
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:42,123 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=55
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:42,166 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=56
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:42,755 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=57
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:43,394 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=58
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:43,715 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=59
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:44,362 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=60
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:44,687 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=61
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:45,315 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=62
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:45,635 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=63
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:46,276 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=64
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:46,624 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=65
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:46,923 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=66
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:47,001 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=67
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:47,559 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=68
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:48,203 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=69
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:48,519 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=70
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:48,893 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=71
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:49,476 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=72
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:49,478 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=73
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:50,084 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=74
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:50,547 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=75
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:50,889 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=76
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:51,394 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=77
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:51,715 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=78
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:52,063 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=79
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:52,277 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=80
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:52,414 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=81
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:52,646 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=82
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:52,798 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=83
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:53,316 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=84
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:53,965 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=85
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:54,595 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=86
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:55,306 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=87
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:55,628 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=88
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:55,979 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=89
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:56,205 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=90
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:56,348 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=91
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:56,762 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=92
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:57,155 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=93
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:57,797 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=94
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:58,129 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=95
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:58,756 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=96
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:14:59,397 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=97
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:00,966 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=98
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:01,315 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=99
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:01,647 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=100
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:01,960 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=101
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:02,377 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=102
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:02,917 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=103
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:03,558 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=104
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:03,882 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=105
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:04,521 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=106
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:05,158 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=107
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:05,795 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=108
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:06,116 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=109
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:06,762 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=110
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:07,153 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=111
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:07,714 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=112
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:08,043 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=113
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:08,387 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=114
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:09,074 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=115
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:09,635 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=116
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:09,958 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=117
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:10,671 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=118
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:10,673 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=119
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:11,310 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=120
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:11,333 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=121
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:11,682 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=122
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:12,035 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=123
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:12,521 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=124
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:13,157 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=125
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:13,796 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=126
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:14,435 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=127
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:15,218 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=128
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:15,556 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=129
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:15,573 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=130
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:15,937 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=131
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:16,258 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=132
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:16,310 INFO  [aspectJ.TestIOStream]-[38] 当前切点：call(BufferedInputStream(..))
+openNum=3
+调用位置为：MarkableInputStream.java
+2017-06-30 13:15:16,329 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=133
+调用位置为：Utils.java
+2017-06-30 13:15:16,690 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=134
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:17,371 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=135
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:17,757 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=136
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:18,115 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=137
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:18,598 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=138
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:18,916 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:19,625 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=140
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:19,956 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=141
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:20,521 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=142
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:20,836 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=143
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:21,562 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=144
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:22,116 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=145
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:22,763 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=146
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:23,085 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=147
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:23,714 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=148
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:24,038 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=149
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:24,667 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=150
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:24,999 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=152
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:25,001 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=152
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:25,001 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=152
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:25,637 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=153
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:25,952 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:26,604 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=155
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:27,242 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=156
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:27,597 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=157
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:27,807 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=158
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:27,813 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=159
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:28,202 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=160
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:28,206 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=161
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:28,553 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=162
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:28,595 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=163
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:29,160 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=164
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:29,164 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=165
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:29,490 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=166
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:29,526 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=167
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,122 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=169
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,122 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=169
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,122 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=169
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,122 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=169
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,437 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=170
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,474 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=171
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,759 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=172
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:30,804 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=173
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:31,079 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=174
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:31,207 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=175
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:31,393 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=176
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:31,512 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=177
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:31,703 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=178
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:31,872 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=179
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,059 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=180
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,203 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=181
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,378 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=182
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,572 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=183
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,686 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=184
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,876 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=185
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:32,999 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=186
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:33,215 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=187
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:33,306 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=188
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:33,849 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=189
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:33,854 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=190
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:34,280 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=191
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:34,875 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=192
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:35,174 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=193
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:35,503 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=194
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:35,822 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=195
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:36,155 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=196
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:36,471 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=197
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:36,821 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=198
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:37,136 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=199
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:37,488 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=200
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:37,813 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=201
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:37,967 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=202
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:38,147 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=203
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:38,273 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=204
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:38,513 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=205
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:38,597 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=206
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:39,106 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=207
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:39,120 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=208
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:39,534 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=209
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:39,544 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=210
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:40,095 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=211
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:40,113 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=212
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:40,674 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=213
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:40,678 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=214
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:40,991 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=215
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:41,045 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=216
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:41,330 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=217
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:41,355 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=218
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:41,949 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=219
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:41,951 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=220
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:42,260 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=221
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:42,267 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=222
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:42,612 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=223
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:42,655 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=224
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:43,278 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=225
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:43,301 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=226
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:43,639 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=228
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:43,641 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=228
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:43,641 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=228
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,036 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=230
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,041 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=230
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,041 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=230
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,372 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=231
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,411 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=232
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,724 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=233
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:44,783 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=234
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:45,081 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=235
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:45,346 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=236
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:45,684 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=237
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:46,073 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=238
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:46,108 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=239
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:46,381 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=240
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:46,414 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=241
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:46,723 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=242
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:46,734 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=243
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:47,109 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=245
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:47,117 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=245
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:47,715 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:47,720 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=247
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,036 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=248
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,041 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=249
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,360 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,363 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=251
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,529 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=252
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,728 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=253
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,732 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=254
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:48,842 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=255
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,062 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=256
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,159 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=257
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,230 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=258
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,442 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=259
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,538 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=260
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,772 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=261
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:49,959 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=262
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:50,084 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=263
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:50,292 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=264
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:50,389 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=265
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:50,638 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=266
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:50,728 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=267
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:50,958 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=268
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:51,042 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=269
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:51,570 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=270
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:51,580 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=271
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:51,893 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=272
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:51,896 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=273
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:52,240 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=274
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:52,835 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=275
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:53,518 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=276
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:54,115 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=277
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:54,758 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=278
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:55,085 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=279
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:55,718 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=280
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:56,120 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=281
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:56,700 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=282
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:57,041 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=283
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:57,659 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=284
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:58,288 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=285
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:58,733 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=286
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:59,248 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=287
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:15:59,936 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=288
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:00,673 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=289
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:01,293 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=290
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:01,897 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=291
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:02,448 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=292
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:02,813 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=293
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:03,195 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=294
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:03,790 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=295
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:04,368 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=296
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:04,723 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=297
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:05,317 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=298
+调用位置为：ExceptionCatchingTypedInput.java
+2017-06-30 13:16:05,628 INFO  [aspectJ.TestIOStream]-[59] 当前切点：call(InputStream.close())
+closeNum=299
+调用位置为：Utils.java

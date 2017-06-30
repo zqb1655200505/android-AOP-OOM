@@ -1,0 +1,111 @@
+2017-06-30 14:34:13,183 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=1
+2017-06-30 14:34:17,539 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=1
+2017-06-30 14:34:17,926 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=2
+2017-06-30 14:34:19,507 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=2
+2017-06-30 14:34:19,604 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=3
+2017-06-30 14:34:21,554 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=3
+2017-06-30 14:34:21,582 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=4
+2017-06-30 14:34:22,308 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=4
+2017-06-30 14:34:22,335 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=5
+2017-06-30 14:34:36,019 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=5
+2017-06-30 14:35:00,600 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=6
+2017-06-30 14:35:08,847 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=6
+2017-06-30 14:35:08,931 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=7
+2017-06-30 14:35:10,377 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=7
+2017-06-30 14:35:10,414 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=8
+2017-06-30 14:35:11,316 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=8
+2017-06-30 14:35:11,502 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=9
+2017-06-30 14:35:14,753 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=9
+2017-06-30 14:35:14,795 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=10
+2017-06-30 14:35:15,754 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=10
+2017-06-30 14:35:15,781 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=11
+2017-06-30 14:35:23,067 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=11
+2017-06-30 14:35:32,431 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=12
+2017-06-30 14:35:36,221 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=12
+2017-06-30 14:35:36,251 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=13
+2017-06-30 14:35:44,184 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=13
+2017-06-30 14:35:44,319 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=14
+2017-06-30 14:35:47,677 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=14
+2017-06-30 14:35:47,834 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=15
+2017-06-30 14:35:49,640 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=15
+2017-06-30 14:35:49,661 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=16
+2017-06-30 14:36:03,146 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=16
+2017-06-30 14:36:03,170 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=17
+2017-06-30 14:36:07,430 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=17
+2017-06-30 14:36:07,537 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=18
+2017-06-30 14:36:18,873 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=18
+2017-06-30 14:36:18,897 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=19
+2017-06-30 14:36:18,898 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=332
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:42,622 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=19
+2017-06-30 14:36:42,774 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=20
+2017-06-30 14:36:44,392 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=20
+2017-06-30 14:36:44,449 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=21
+2017-06-30 14:36:47,022 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=21
+2017-06-30 14:36:47,049 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=22
+2017-06-30 14:36:48,393 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=22
+2017-06-30 14:36:48,435 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=23
+2017-06-30 14:36:52,296 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=23
+2017-06-30 14:36:52,304 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=24
+2017-06-30 14:36:53,681 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=24
+2017-06-30 14:36:53,697 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=25
+2017-06-30 14:37:01,739 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=25
+2017-06-30 14:37:17,865 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=26
+2017-06-30 14:37:22,803 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=26
+2017-06-30 14:37:41,557 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.registerReceiver(..))
+registerNum=27
+2017-06-30 14:37:44,504 INFO  [aspectJ.TestReceiver]-[?] 当前切点：call(BaseActivity.unregisterReceiver(..))
+unRegisterNum=27

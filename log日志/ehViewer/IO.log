@@ -1,0 +1,765 @@
+2017-06-30 13:59:10,378 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=1
+调用位置为：RawFile.java
+2017-06-30 13:59:16,674 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=1
+调用位置为：Entities.java
+2017-06-30 13:59:16,703 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=2
+调用位置为：Entities.java
+2017-06-30 13:59:18,221 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=2
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:18,227 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=3
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:18,232 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=5
+调用位置为：Image.java
+2017-06-30 13:59:18,232 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=5
+调用位置为：Image.java
+2017-06-30 13:59:18,232 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=5
+调用位置为：Image.java
+2017-06-30 13:59:18,232 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=5
+调用位置为：Image.java
+2017-06-30 13:59:18,310 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=4
+调用位置为：ConacoTask.java
+2017-06-30 13:59:18,312 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=4
+调用位置为：ConacoTask.java
+2017-06-30 13:59:18,312 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=4
+调用位置为：ConacoTask.java
+2017-06-30 13:59:18,538 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=6
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:18,555 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=7
+调用位置为：Image.java
+2017-06-30 13:59:18,567 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=5
+调用位置为：ConacoTask.java
+2017-06-30 13:59:18,624 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=8
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:18,628 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=9
+调用位置为：Image.java
+2017-06-30 13:59:18,636 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=6
+调用位置为：ConacoTask.java
+2017-06-30 13:59:19,162 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=10
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:19,165 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=11
+调用位置为：Image.java
+2017-06-30 13:59:19,176 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=7
+调用位置为：ConacoTask.java
+2017-06-30 13:59:22,066 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=12
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:22,068 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=13
+调用位置为：Image.java
+2017-06-30 13:59:22,073 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=8
+调用位置为：ConacoTask.java
+2017-06-30 13:59:22,160 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=14
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:22,162 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=15
+调用位置为：Image.java
+2017-06-30 13:59:22,167 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=9
+调用位置为：ConacoTask.java
+2017-06-30 13:59:22,264 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=16
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:22,266 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=17
+调用位置为：Image.java
+2017-06-30 13:59:22,272 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=10
+调用位置为：ConacoTask.java
+2017-06-30 13:59:23,649 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=18
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:23,652 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=19
+调用位置为：Image.java
+2017-06-30 13:59:23,660 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=11
+调用位置为：ConacoTask.java
+2017-06-30 13:59:26,211 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=20
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,213 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=21
+调用位置为：Image.java
+2017-06-30 13:59:26,222 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=12
+调用位置为：ConacoTask.java
+2017-06-30 13:59:26,836 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=22
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,838 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=23
+调用位置为：Image.java
+2017-06-30 13:59:26,858 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=13
+调用位置为：ConacoTask.java
+2017-06-30 13:59:26,861 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=24
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,864 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=25
+调用位置为：Image.java
+2017-06-30 13:59:26,886 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=26
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,888 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=27
+调用位置为：Image.java
+2017-06-30 13:59:26,907 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=28
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,908 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=29
+调用位置为：Image.java
+2017-06-30 13:59:26,927 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=30
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,929 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=31
+调用位置为：Image.java
+2017-06-30 13:59:26,948 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=32
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,950 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=33
+调用位置为：Image.java
+2017-06-30 13:59:26,968 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=34
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,969 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=35
+调用位置为：Image.java
+2017-06-30 13:59:26,987 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=36
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:26,992 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=37
+调用位置为：Image.java
+2017-06-30 13:59:27,012 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=38
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,014 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=39
+调用位置为：Image.java
+2017-06-30 13:59:27,036 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=40
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,038 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=41
+调用位置为：Image.java
+2017-06-30 13:59:27,055 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=42
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,057 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=43
+调用位置为：Image.java
+2017-06-30 13:59:27,075 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=44
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,076 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=45
+调用位置为：Image.java
+2017-06-30 13:59:27,095 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=46
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,098 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=47
+调用位置为：Image.java
+2017-06-30 13:59:27,117 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=48
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,119 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=49
+调用位置为：Image.java
+2017-06-30 13:59:27,141 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=50
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,143 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=51
+调用位置为：Image.java
+2017-06-30 13:59:27,163 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=52
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,165 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=53
+调用位置为：Image.java
+2017-06-30 13:59:27,184 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=54
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,186 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=55
+调用位置为：Image.java
+2017-06-30 13:59:27,204 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=56
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,206 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=57
+调用位置为：Image.java
+2017-06-30 13:59:27,224 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=58
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,227 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=59
+调用位置为：Image.java
+2017-06-30 13:59:27,250 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=60
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:27,252 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=61
+调用位置为：Image.java
+2017-06-30 13:59:40,126 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=62
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,128 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=63
+调用位置为：Image.java
+2017-06-30 13:59:40,183 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=64
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,186 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=65
+调用位置为：Image.java
+2017-06-30 13:59:40,230 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=66
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,232 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=67
+调用位置为：Image.java
+2017-06-30 13:59:40,273 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=68
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,288 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=69
+调用位置为：Image.java
+2017-06-30 13:59:40,331 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=70
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,333 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=71
+调用位置为：Image.java
+2017-06-30 13:59:40,369 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=72
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,371 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=73
+调用位置为：Image.java
+2017-06-30 13:59:40,406 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=74
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,408 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=75
+调用位置为：Image.java
+2017-06-30 13:59:40,443 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=76
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,446 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=77
+调用位置为：Image.java
+2017-06-30 13:59:40,481 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=78
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,484 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=79
+调用位置为：Image.java
+2017-06-30 13:59:40,503 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=80
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,505 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=81
+调用位置为：Image.java
+2017-06-30 13:59:40,526 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=82
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,528 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=83
+调用位置为：Image.java
+2017-06-30 13:59:40,547 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=84
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,549 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=85
+调用位置为：Image.java
+2017-06-30 13:59:40,568 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=86
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,570 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=87
+调用位置为：Image.java
+2017-06-30 13:59:40,587 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=88
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,589 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=89
+调用位置为：Image.java
+2017-06-30 13:59:40,607 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=90
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,608 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=91
+调用位置为：Image.java
+2017-06-30 13:59:40,626 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=92
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,630 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=93
+调用位置为：Image.java
+2017-06-30 13:59:40,648 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=94
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,650 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=95
+调用位置为：Image.java
+2017-06-30 13:59:40,669 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=96
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,670 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=97
+调用位置为：Image.java
+2017-06-30 13:59:40,693 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=98
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,695 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=99
+调用位置为：Image.java
+2017-06-30 13:59:40,713 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=100
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:40,715 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=101
+调用位置为：Image.java
+2017-06-30 13:59:55,286 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=102
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:55,288 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=103
+调用位置为：Image.java
+2017-06-30 13:59:55,291 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=104
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:55,294 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=105
+调用位置为：Image.java
+2017-06-30 13:59:55,296 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=106
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:55,298 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=107
+调用位置为：Image.java
+2017-06-30 13:59:55,320 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=16
+调用位置为：ConacoTask.java
+2017-06-30 13:59:55,323 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(InputStream.close())
+closeNum=16
+调用位置为：ConacoTask.java
+2017-06-30 13:59:57,850 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=108
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:57,852 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=109
+调用位置为：Image.java
+2017-06-30 13:59:57,885 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=110
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:57,888 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=111
+调用位置为：Image.java
+2017-06-30 13:59:57,926 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=112
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:57,929 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=113
+调用位置为：Image.java
+2017-06-30 13:59:57,964 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=114
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:57,968 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=115
+调用位置为：Image.java
+2017-06-30 13:59:57,999 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=116
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,002 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=117
+调用位置为：Image.java
+2017-06-30 13:59:58,032 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=118
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,035 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=119
+调用位置为：Image.java
+2017-06-30 13:59:58,069 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=120
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,072 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=121
+调用位置为：Image.java
+2017-06-30 13:59:58,108 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=122
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,111 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=123
+调用位置为：Image.java
+2017-06-30 13:59:58,151 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=124
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,153 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=125
+调用位置为：Image.java
+2017-06-30 13:59:58,189 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=126
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,192 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=127
+调用位置为：Image.java
+2017-06-30 13:59:58,234 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=128
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,236 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=129
+调用位置为：Image.java
+2017-06-30 13:59:58,273 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=130
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,276 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=131
+调用位置为：Image.java
+2017-06-30 13:59:58,311 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=132
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,313 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=133
+调用位置为：Image.java
+2017-06-30 13:59:58,352 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=134
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,355 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=135
+调用位置为：Image.java
+2017-06-30 13:59:58,386 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=136
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,390 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=137
+调用位置为：Image.java
+2017-06-30 13:59:58,411 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=138
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,412 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=139
+调用位置为：Image.java
+2017-06-30 13:59:58,430 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=140
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,432 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=141
+调用位置为：Image.java
+2017-06-30 13:59:58,451 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=142
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,453 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=143
+调用位置为：Image.java
+2017-06-30 13:59:58,473 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=144
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,476 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=145
+调用位置为：Image.java
+2017-06-30 13:59:58,495 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=146
+调用位置为：DiskLruCache.java
+2017-06-30 13:59:58,497 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=147
+调用位置为：Image.java
+2017-06-30 14:00:00,518 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=17
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:00,526 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=18
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:00,575 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=19
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:00,582 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=20
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:03,507 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=148
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:03,511 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=149
+调用位置为：Image.java
+2017-06-30 14:00:04,150 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=150
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:04,152 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=151
+调用位置为：Image.java
+2017-06-30 14:00:05,567 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=152
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:05,570 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=153
+调用位置为：Image.java
+2017-06-30 14:00:05,572 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=21
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:05,575 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=22
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:07,549 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=23
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:07,552 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=24
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:09,050 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=25
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:09,054 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=26
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:10,094 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=154
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:10,097 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=155
+调用位置为：Image.java
+2017-06-30 14:00:10,102 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=27
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:10,104 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=28
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:10,968 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:10,970 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(OutputStream.close())
+closeNum=30
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,378 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=156
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,380 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=157
+调用位置为：Image.java
+2017-06-30 14:00:14,463 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=158
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,466 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=159
+调用位置为：Image.java
+2017-06-30 14:00:14,496 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=160
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,499 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=161
+调用位置为：Image.java
+2017-06-30 14:00:14,537 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=162
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,539 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=163
+调用位置为：Image.java
+2017-06-30 14:00:14,579 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=164
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,581 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=165
+调用位置为：Image.java
+2017-06-30 14:00:14,606 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=166
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,608 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=167
+调用位置为：Image.java
+2017-06-30 14:00:14,644 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=168
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,647 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=169
+调用位置为：Image.java
+2017-06-30 14:00:14,681 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=170
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,684 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=171
+调用位置为：Image.java
+2017-06-30 14:00:14,717 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=172
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,719 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=173
+调用位置为：Image.java
+2017-06-30 14:00:14,754 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=174
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,756 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=175
+调用位置为：Image.java
+2017-06-30 14:00:14,791 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=176
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,794 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=177
+调用位置为：Image.java
+2017-06-30 14:00:14,828 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=178
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,830 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=179
+调用位置为：Image.java
+2017-06-30 14:00:14,865 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=180
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,867 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=181
+调用位置为：Image.java
+2017-06-30 14:00:14,901 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=182
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,904 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=183
+调用位置为：Image.java
+2017-06-30 14:00:14,938 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=184
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,941 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=185
+调用位置为：Image.java
+2017-06-30 14:00:14,975 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=186
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,977 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=187
+调用位置为：Image.java
+2017-06-30 14:00:14,996 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=188
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:14,999 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=189
+调用位置为：Image.java
+2017-06-30 14:00:15,017 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=190
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:15,019 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=191
+调用位置为：Image.java
+2017-06-30 14:00:15,037 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=192
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:15,039 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=193
+调用位置为：Image.java
+2017-06-30 14:00:15,061 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=194
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:15,063 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=195
+调用位置为：Image.java
+2017-06-30 14:00:18,021 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=196
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,023 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=197
+调用位置为：Image.java
+2017-06-30 14:00:18,082 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=198
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,085 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=199
+调用位置为：Image.java
+2017-06-30 14:00:18,125 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=200
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,128 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=201
+调用位置为：Image.java
+2017-06-30 14:00:18,159 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=202
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,161 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=203
+调用位置为：Image.java
+2017-06-30 14:00:18,191 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=204
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,193 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=205
+调用位置为：Image.java
+2017-06-30 14:00:18,211 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=206
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,213 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=207
+调用位置为：Image.java
+2017-06-30 14:00:18,232 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=208
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,235 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=209
+调用位置为：Image.java
+2017-06-30 14:00:18,257 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=210
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,261 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=211
+调用位置为：Image.java
+2017-06-30 14:00:18,284 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=212
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,286 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=213
+调用位置为：Image.java
+2017-06-30 14:00:18,308 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=214
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,310 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=215
+调用位置为：Image.java
+2017-06-30 14:00:18,328 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=216
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,330 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=217
+调用位置为：Image.java
+2017-06-30 14:00:18,350 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=218
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,353 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=219
+调用位置为：Image.java
+2017-06-30 14:00:18,377 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=220
+调用位置为：DiskLruCache.java
+2017-06-30 14:00:18,379 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(BufferedInputStream(..))
+openNum=221
+调用位置为：Image.java
+2017-06-30 14:00:54,380 INFO  [aspectJ.TestIOStream]-[37] 当前切点：call(FileInputStream(..))
+openNum=222
+调用位置为：EhDB.java
+2017-06-30 14:01:12,899 INFO  [aspectJ.TestIOStream]-[58] 当前切点：call(FileInputStream.close())
+closeNum=31
+调用位置为：ClientIdDefaultProvider.java

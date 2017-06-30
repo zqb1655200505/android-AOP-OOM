@@ -1,0 +1,3255 @@
+2017-06-30 13:12:39,815 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=2
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:39,820 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=2
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:39,821 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=2
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:39,821 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=2
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:39,876 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=4
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:39,883 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=4
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:39,890 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=4
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,540 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=5
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,554 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=5
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,752 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=6
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,754 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=6
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,829 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=7
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,832 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=7
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,839 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=8
+调用位置为：ImageUtils.java
+2017-06-30 13:12:42,875 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=9
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,877 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=16
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,884 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=11
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,888 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=11
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,888 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=11
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,888 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=17
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,888 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=17
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,888 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=11
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,888 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=11
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,942 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=12
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,942 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=22
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,942 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=22
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,948 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,948 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,948 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,948 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,948 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=8
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:42,948 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=8
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:42,952 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=23
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,952 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=23
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:42,952 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,952 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,952 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,952 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=14
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,969 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=15
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,974 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=15
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,985 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=16
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:42,987 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=16
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:46,858 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=17
+调用位置为：MainActivity.java
+2017-06-30 13:12:46,875 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=17
+调用位置为：MainActivity.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,284 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,288 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=22
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=23
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=23
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,308 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=23
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,344 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=23
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,373 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=24
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,376 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=24
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,398 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=25
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:48,400 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=25
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,795 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,795 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,795 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,795 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,798 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,799 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,799 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=27
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,812 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=28
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,816 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=29
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,818 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=29
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,848 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=30
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,850 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=30
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,864 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=31
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,867 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=31
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,909 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=32
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,911 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=32
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,920 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=33
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,920 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=61
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:51,923 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=33
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,923 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=33
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,923 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=62
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:51,923 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=62
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:51,923 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,923 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=34
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,928 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=28
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:51,928 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=28
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:51,928 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=34
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,928 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=34
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,928 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=35
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,928 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=35
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,934 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=63
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:51,935 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=35
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,942 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=36
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,945 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=36
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,960 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=37
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:51,962 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=37
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,058 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=39
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,060 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=39
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,065 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=39
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,067 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=33
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,079 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=41
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,083 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=40
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,083 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=40
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,083 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=41
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,083 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=41
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,090 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=41
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,132 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=42
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,142 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=42
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,201 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=43
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,204 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=43
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,208 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=44
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,209 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=44
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,222 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=45
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,224 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=45
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,302 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,302 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,302 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,302 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,305 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,305 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,305 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,305 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=47
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,321 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,321 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,321 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,321 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=49
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,353 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=50
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,355 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=50
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,373 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=51
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,376 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=51
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,411 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,411 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,411 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,411 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,411 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,411 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,419 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,419 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,419 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,419 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=53
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,436 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=54
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,436 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=54
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,436 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=55
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,436 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=55
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,436 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=103
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,436 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=103
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,441 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=49
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,441 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=49
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,441 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=56
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,441 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=56
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,441 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=55
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,441 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=55
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,447 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=56
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,447 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=104
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,458 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=57
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,461 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=57
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,498 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=58
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,500 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=58
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,513 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=59
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,515 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=59
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,515 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=53
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,587 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,587 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,587 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,587 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,590 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,590 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,590 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,590 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=61
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,603 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,603 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,603 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,603 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,606 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,606 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,606 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,606 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=63
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,639 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=64
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,641 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=64
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,650 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=65
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,652 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=65
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,685 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=127
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,685 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=127
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=68
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=68
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=68
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,692 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,698 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=68
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,698 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=61
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,707 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=132
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,707 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=132
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,707 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=69
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,711 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=70
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,711 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=70
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,711 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=69
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,711 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=69
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,711 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=133
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,711 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=133
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,716 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=70
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,716 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=70
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,716 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=71
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,716 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=71
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,720 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=71
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,750 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=72
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,753 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=137
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,759 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=73
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,763 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=67
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,763 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=73
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,774 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=142
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,774 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=74
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,774 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=142
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,779 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=69
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:52,779 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=143
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,779 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=75
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=76
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,785 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=76
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,785 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=75
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,785 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=75
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,790 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=76
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,791 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=145
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:52,798 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=77
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,800 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=77
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,836 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=78
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,838 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=78
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,848 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=79
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,850 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=79
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,866 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=80
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,868 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=80
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,880 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=81
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,883 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=81
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,955 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,955 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,955 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,955 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,960 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,960 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,960 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,960 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=83
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,974 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,974 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,974 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,974 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,977 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,977 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,977 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:52,977 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=85
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,010 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=86
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,012 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=86
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,024 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=87
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,026 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=87
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,054 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=169
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,054 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=169
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,054 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,054 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,054 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,054 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,059 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,059 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,059 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,059 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=89
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,059 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=170
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,059 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=170
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,064 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=84
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:53,064 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=90
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,064 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=84
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:53,069 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=90
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,069 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=172
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,069 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=172
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,078 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,078 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=175
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=175
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,078 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,078 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,082 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=176
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,082 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=176
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,082 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,082 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,082 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,082 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=92
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,088 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=93
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,090 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=93
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,111 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=94
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,113 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=94
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,133 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=182
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,137 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=89
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:53,137 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=89
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:53,137 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=95
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,137 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=95
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,137 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=96
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,137 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=96
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,146 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=96
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,159 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=97
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,162 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=97
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,177 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,179 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=98
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,189 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=99
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,191 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=99
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,225 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=100
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,226 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=100
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,226 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=94
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:53,239 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,239 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,239 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,239 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,242 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,242 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,242 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,242 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=102
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,252 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=103
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,254 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=103
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,315 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=104
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,317 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=200
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,317 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=200
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,317 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=104
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,327 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=106
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,327 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=106
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,327 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=106
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,327 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=106
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,336 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=207
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,336 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=107
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,340 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=108
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,342 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=109
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,342 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=109
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,345 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=102
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:53,345 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=109
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,372 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=110
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,376 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=110
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,377 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=111
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,377 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=214
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,383 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=111
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,383 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=111
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,384 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=112
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,384 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=112
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,398 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=219
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,398 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=219
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,398 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=113
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,404 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=113
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,404 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=113
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,404 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=220
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,404 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=220
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:53,404 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=114
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,404 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=114
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,410 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=115
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,410 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=115
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,413 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=115
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,485 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=116
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,487 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=116
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,495 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=117
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,497 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=117
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,567 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,567 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,567 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,567 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,570 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,570 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,570 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,570 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=119
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,583 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,583 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,583 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,583 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,586 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,586 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,586 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,586 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=121
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,622 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=122
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,624 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=122
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,634 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=123
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,636 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=123
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,669 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,669 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,669 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,669 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,672 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,672 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,672 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,672 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=125
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,688 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,688 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,688 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,688 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=127
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,763 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=128
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,766 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=128
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,776 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=129
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:53,778 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=129
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,633 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=131
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,637 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=131
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,651 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=256
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:55,651 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=132
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,656 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=133
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,659 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=133
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,693 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=135
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,694 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=135
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,696 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=135
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,698 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=135
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,698 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=135
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=136
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=136
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=136
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,722 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,728 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,728 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,728 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,728 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=138
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,746 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=139
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,749 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=139
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,772 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=140
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,775 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=140
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,797 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=141
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,799 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=141
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,925 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=142
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,927 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=142
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,939 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=143
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,942 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=143
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,990 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=144
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:55,992 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=144
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,001 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=145
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,003 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=145
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,003 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=138
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:56,017 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=146
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,019 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=146
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,019 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:56,029 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=147
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,031 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=147
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,076 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=148
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,078 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=148
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,089 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=149
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,091 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=149
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,135 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=150
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,137 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=150
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,145 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=151
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,146 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=151
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,167 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=152
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,169 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=152
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,177 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=153
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,179 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=153
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,216 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=154
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,217 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=154
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,226 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=155
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,227 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=155
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,294 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=156
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,296 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=156
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,307 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=157
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,309 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=157
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,338 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,338 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,338 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,338 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,341 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,341 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,341 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,341 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=159
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,357 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=161
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,358 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=161
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,360 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=161
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,439 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=162
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,459 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=162
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,496 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=163
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,497 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=163
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,535 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=164
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,535 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=157
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:56,535 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=157
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:56,551 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=164
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,552 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=317
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:56,560 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=165
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,560 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=320
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:56,563 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=165
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,563 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=165
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,563 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=166
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,563 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=166
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,566 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=158
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:56,566 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=166
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,575 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=324
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:56,575 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=167
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,579 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=167
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,579 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=167
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,579 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=168
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,579 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=168
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,583 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=168
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,618 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=169
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,627 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=160
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:56,628 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=169
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,632 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=170
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,634 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=170
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,634 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=325
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:56,641 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=171
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,643 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=171
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,652 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=172
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,654 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=172
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,686 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=173
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,688 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=173
+调用位置为：ImageUtils.java
+2017-06-30 13:12:56,859 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,859 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,859 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,859 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,862 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,862 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,862 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,862 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=175
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,874 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,874 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,874 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,874 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,879 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,879 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,879 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,879 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=177
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,927 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=178
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,928 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=178
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,936 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=179
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,938 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=179
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,987 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=180
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:56,989 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=180
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,003 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=181
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,007 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=181
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,076 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=182
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=350
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=350
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,078 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=183
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,078 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=183
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,078 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=182
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,078 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=182
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,083 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=184
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,083 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=184
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,083 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=183
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,083 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=183
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,087 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=173
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:57,087 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=184
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,101 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=185
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,101 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=356
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,101 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=356
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,106 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=187
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,109 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=186
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,109 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=187
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,112 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=187
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,113 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=187
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,113 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=187
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,190 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=188
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,192 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=188
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,217 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=189
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,220 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=189
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,283 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=364
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,283 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=190
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,287 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=190
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,288 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=191
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,288 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=191
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,291 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=191
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,303 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=368
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,303 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=192
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=193
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,306 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=193
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,306 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=192
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,306 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=192
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,310 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=193
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,378 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=194
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,381 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=194
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,396 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=195
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,398 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=195
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,466 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=196
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,470 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=196
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,476 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=197
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,476 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=186
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:57,480 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=377
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,480 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=197
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,486 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=187
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:57,486 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=198
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,489 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=379
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,489 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=198
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,496 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=199
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,498 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=199
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,569 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=200
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,571 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=200
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,584 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=201
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,586 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=201
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,651 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=388
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,651 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=202
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,654 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=202
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,654 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=202
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,654 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=203
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,654 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=203
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,658 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=203
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,670 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=392
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:57,670 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=204
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,673 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=205
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,673 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=205
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,673 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=204
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,673 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=204
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,677 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=205
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,748 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=206
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,750 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=206
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,767 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=207
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,770 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=207
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,951 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=208
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,954 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=208
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,965 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=209
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,967 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=209
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,994 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,994 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,994 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,994 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,997 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,997 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,997 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:57,997 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=211
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,008 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=212
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,010 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=212
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,047 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=213
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,049 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=213
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,149 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=214
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,150 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=214
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,163 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=215
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,165 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=215
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,218 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=216
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,221 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=216
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,265 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=217
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,267 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=217
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,272 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=417
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:58,285 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=218
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,290 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=218
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,305 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=219
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,309 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=219
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,366 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=220
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,369 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=220
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,380 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=221
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,394 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=221
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,502 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=222
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,504 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=222
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,521 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=223
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,523 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=223
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,556 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=224
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,559 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=224
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,579 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,579 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,579 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,579 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,582 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,582 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,582 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,582 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=226
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,608 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=227
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,609 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=227
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,830 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=228
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,833 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=228
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,865 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=230
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,897 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=230
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,897 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=230
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,897 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=218
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:58,897 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=218
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:58,897 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=230
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,897 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=230
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,928 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=231
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,931 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=231
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,937 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=232
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,941 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=219
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:58,942 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=232
+调用位置为：ImageUtils.java
+2017-06-30 13:12:58,965 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=234
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,967 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=234
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,969 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=234
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,971 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=234
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:58,971 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=234
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,001 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=236
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,001 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=236
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,001 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=235
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,001 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=235
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,005 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=236
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,021 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=237
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,023 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=237
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,038 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=238
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,040 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=238
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,051 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=239
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,053 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=239
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,061 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=240
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,062 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=240
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,079 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=241
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,082 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=241
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,095 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=242
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,098 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=242
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,126 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=243
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,126 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=465
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,129 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=243
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,129 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=243
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,129 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=244
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,129 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=244
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,132 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=244
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,132 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=230
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:59,144 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=245
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,144 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=469
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,148 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=246
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,148 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=246
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,148 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=245
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,148 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=245
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,151 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=246
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,196 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=247
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,198 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=247
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,207 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=248
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,208 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=248
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,283 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=249
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,284 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=249
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,294 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=250
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,295 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=250
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,321 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=251
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,322 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=251
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,322 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=237
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:59,340 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,340 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,340 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,340 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,342 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,342 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,342 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,342 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=253
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,352 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=254
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,353 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=254
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,510 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=255
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,511 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=255
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,520 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=256
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,522 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=256
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,679 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,683 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=259
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,702 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,702 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,702 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,705 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=262
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,881 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=263
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,882 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=504
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,884 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=506
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,884 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=263
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,884 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=506
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,898 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=264
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,898 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=264
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,898 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=265
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,898 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=265
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,898 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=508
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,898 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=508
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,903 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=265
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,903 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=252
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:59,903 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=509
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,908 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=510
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,908 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=253
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:12:59,908 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=266
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,912 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=512
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,912 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=512
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,912 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=266
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,918 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=513
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:12:59,918 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=267
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,921 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=267
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,921 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=267
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,921 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=268
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,921 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=268
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:12:59,924 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=268
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,088 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=269
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,093 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=269
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,093 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=517
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,099 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=270
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,099 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=256
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:00,106 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=518
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,106 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=270
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,114 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=271
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,118 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=271
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,119 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=521
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,124 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=272
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,126 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=272
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,215 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=273
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,217 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=273
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,228 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=274
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,230 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=274
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,275 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=275
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,277 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=275
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,277 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=261
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:00,291 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,291 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,291 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,291 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,295 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,295 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,295 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,295 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=277
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,311 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=278
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,313 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=278
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,399 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeResource(..))
+createNum=279
+调用位置为：EffectUtil.java
+2017-06-30 13:13:00,420 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=534
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,427 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=280
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,429 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=280
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,440 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=281
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,442 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=281
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,488 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(StickerDrawable.getBitmap())
+createNum=282
+调用位置为：StickerDrawable.java
+2017-06-30 13:13:00,491 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(StickerDrawable.getBitmap())
+closeNum=282
+调用位置为：StickerDrawable.java
+2017-06-30 13:13:00,501 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=283
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,503 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=283
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,517 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=284
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,517 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=268
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:00,521 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=284
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,557 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=285
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,559 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=285
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,574 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=286
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,577 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=286
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,638 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=287
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,641 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=287
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,653 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=288
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,655 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=288
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,681 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=289
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,684 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=289
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,695 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=290
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,697 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=290
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,740 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=291
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,743 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=291
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,754 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=292
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,756 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=292
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,928 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=293
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,945 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=565
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,945 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=294
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,945 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=565
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=294
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=294
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,950 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=294
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,954 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,954 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,954 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=280
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:00,954 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=280
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:00,954 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,954 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=296
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,966 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=297
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,966 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=569
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:00,970 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=297
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,970 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=297
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,970 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=298
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,970 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=298
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:00,974 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=298
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,119 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=299
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,121 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=299
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,133 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=575
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,133 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=300
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,137 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=301
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,137 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=301
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,137 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=300
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,137 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=300
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,140 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=301
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,152 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=302
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,155 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=302
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,173 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=303
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,175 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=303
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,185 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=304
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,187 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=304
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,319 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=305
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,321 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=305
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,332 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=290
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,332 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=290
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,332 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=306
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,332 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=306
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,336 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=306
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,343 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=307
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,345 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=307
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,357 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=308
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,359 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=308
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,374 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=309
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,376 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=309
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,388 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=310
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,389 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=310
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,431 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=311
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,434 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=312
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,434 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=312
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,437 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=312
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,456 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=601
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,456 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=313
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,459 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=314
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,459 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=314
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,459 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=313
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,459 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=313
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,463 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=314
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,502 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=605
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,505 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=316
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,508 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=316
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,514 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=317
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,514 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=302
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,514 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=608
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,519 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=610
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,519 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=317
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,519 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=610
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,525 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=611
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,525 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=318
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,525 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=303
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,532 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=318
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,532 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=318
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,532 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=612
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,532 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=612
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,532 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=319
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,532 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=319
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,537 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=613
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,537 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=319
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,541 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=320
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,543 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=320
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,580 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=321
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,583 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=618
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,583 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=321
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,583 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=618
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,588 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=322
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,588 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=307
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,588 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=619
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,592 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=620
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,592 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=620
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,592 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=323
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,592 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=323
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,592 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=322
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,592 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=322
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,597 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=323
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,597 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=621
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,600 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=309
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,600 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=309
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,600 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=324
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,605 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=623
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,605 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=623
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,605 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=324
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,613 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,613 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,613 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,613 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,617 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,617 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,617 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,617 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=326
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,651 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=327
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,655 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=327
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,668 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=329
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,670 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=329
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,669 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=313
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,685 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=330
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,693 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=330
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,693 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=330
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,696 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=331
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,696 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=331
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,699 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=331
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,710 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=332
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,712 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=332
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,741 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=333
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,744 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=333
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,759 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=334
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,759 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=642
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,762 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=334
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,762 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=643
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,767 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=335
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,769 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=335
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,781 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=336
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,787 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=336
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,788 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=647
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,792 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=337
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,794 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=337
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,804 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=338
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,806 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=338
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,828 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=339
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,832 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=339
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,844 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=655
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,844 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=340
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,848 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=325
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,848 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=325
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,848 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=340
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,848 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=340
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,848 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=341
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,848 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=341
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,854 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=326
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,854 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=341
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,854 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=656
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,862 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=342
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,862 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=659
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:01,866 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=343
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,866 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=343
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,866 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=342
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,866 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=342
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,869 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=343
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,869 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=327
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,879 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=344
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,879 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=328
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,892 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=345
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,894 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=345
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,904 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=346
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,906 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=346
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,945 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=347
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,947 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=347
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,958 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=333
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:01,958 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=348
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:01,961 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=348
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:02,035 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=349
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:02,037 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=349
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:02,048 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=350
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:02,050 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=350
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:29,396 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=351
+调用位置为：MainActivity.java
+2017-06-30 13:13:29,411 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=351
+调用位置为：MainActivity.java
+2017-06-30 13:13:29,444 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=352
+调用位置为：MainActivity.java
+2017-06-30 13:13:29,448 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=352
+调用位置为：MainActivity.java
+2017-06-30 13:13:42,552 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=353
+调用位置为：MainActivity.java
+2017-06-30 13:13:42,554 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=353
+调用位置为：MainActivity.java
+2017-06-30 13:13:42,589 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=354
+调用位置为：MainActivity.java
+2017-06-30 13:13:42,592 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=354
+调用位置为：MainActivity.java
+2017-06-30 13:13:47,632 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=355
+调用位置为：MainActivity.java
+2017-06-30 13:13:47,635 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=355
+调用位置为：MainActivity.java
+2017-06-30 13:13:47,667 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeFile(..))
+createNum=356
+调用位置为：MainActivity.java
+2017-06-30 13:13:47,672 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeFile(..))
+closeNum=356
+调用位置为：MainActivity.java
+2017-06-30 13:13:53,079 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=359
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,081 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=359
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,081 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=359
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,085 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=359
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,087 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=359
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,088 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=338
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:53,088 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=338
+调用位置为：ContentLengthInputStream.java
+2017-06-30 13:13:53,110 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=361
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,123 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=683
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:53,123 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(BufferedInputStream(..))
+openNum=683
+调用位置为：BaseImageDownloader.java
+2017-06-30 13:13:53,128 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=362
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,134 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=362
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,248 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=363
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,250 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=363
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,261 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=364
+调用位置为：BaseImageDecoder.java
+2017-06-30 13:13:53,264 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=364
+调用位置为：BaseImageDecoder.java

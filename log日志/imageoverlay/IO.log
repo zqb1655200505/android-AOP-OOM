@@ -1,0 +1,1467 @@
+2017-06-30 13:09:13,427 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(DataOutputStream.close())
+closeNum=1
+调用位置为：HurlStack.java
+2017-06-30 13:09:13,562 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(PoolingByteArrayOutputStream.close())
+closeNum=2
+调用位置为：BasicNetwork.java
+2017-06-30 13:09:13,587 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(BufferedOutputStream.close())
+closeNum=3
+调用位置为：DiskBasedCache.java
+2017-06-30 13:09:13,781 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=1
+调用位置为：MainActivity.java
+2017-06-30 13:09:13,790 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=4
+调用位置为：MainActivity.java
+2017-06-30 13:09:16,836 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=9
+调用位置为：DecodeJob.java
+2017-06-30 13:09:16,836 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=9
+调用位置为：DecodeJob.java
+2017-06-30 13:09:16,836 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=9
+调用位置为：DecodeJob.java
+2017-06-30 13:09:16,836 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=9
+调用位置为：DecodeJob.java
+2017-06-30 13:09:16,850 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=10
+调用位置为：DecodeJob.java
+2017-06-30 13:09:16,850 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=10
+调用位置为：DecodeJob.java
+2017-06-30 13:09:16,850 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=5
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:16,850 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=5
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:16,854 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:16,854 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:16,854 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:16,854 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,006 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=13
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,015 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=14
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,018 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=15
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,065 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,065 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,065 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,065 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:17,181 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=21
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:17,183 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=22
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,071 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=29
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,077 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=11
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,078 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=30
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,078 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=30
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=13
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=13
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,082 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=14
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,082 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=14
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,093 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=15
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,093 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=19
+调用位置为：Downsampler.java
+2017-06-30 13:09:21,206 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=33
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,213 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=35
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,215 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=38
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,215 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=38
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,218 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,219 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,219 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,219 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,219 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,219 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,219 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,224 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=43
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,227 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=44
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,234 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=45
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,235 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=45
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,235 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=45
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,241 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=46
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,241 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,227 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=28
+调用位置为：Downsampler.java
+2017-06-30 13:09:21,246 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=47
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,246 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=47
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,246 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,246 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=18
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,256 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=19
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,256 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=19
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,256 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=48
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,256 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=48
+调用位置为：DecodeJob.java
+2017-06-30 13:09:21,270 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=21
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,308 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=22
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,395 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=41
+调用位置为：Downsampler.java
+2017-06-30 13:09:21,455 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=57
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,457 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=57
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,457 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=57
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,457 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=42
+调用位置为：Downsampler.java
+2017-06-30 13:09:21,457 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=42
+调用位置为：Downsampler.java
+2017-06-30 13:09:21,509 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=58
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,522 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=59
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,546 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=60
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,578 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=61
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,607 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=62
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,616 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=63
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,629 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=64
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,633 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=65
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:21,639 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=66
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:21,641 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=67
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,603 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=70
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,608 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=23
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,611 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=25
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,613 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=43
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,618 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=25
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,621 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=43
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=47
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=46
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=46
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=46
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=74
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=74
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,639 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=74
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,648 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=47
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,648 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=28
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,648 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=74
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,658 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=28
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,662 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=29
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,665 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=52
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,669 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=52
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,699 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=80
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,728 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=32
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,731 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=56
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,731 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=84
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,727 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=32
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,749 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=33
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,751 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=86
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,758 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=88
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,758 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=88
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,772 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=92
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,775 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=64
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,775 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=93
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,775 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=93
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,781 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=93
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,785 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=34
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,785 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=62
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,781 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=64
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,781 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=64
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,781 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=93
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,815 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=35
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,834 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=98
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,834 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=98
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,839 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=100
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:22,841 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=67
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,850 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,859 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,859 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=67
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,860 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=103
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,860 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=103
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,860 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=103
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,860 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=103
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,883 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=105
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,883 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=105
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,883 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=105
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,883 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=105
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,898 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=39
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,898 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=106
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,898 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=106
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,898 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=106
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,904 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=40
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,904 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=40
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,904 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=106
+调用位置为：DecodeJob.java
+2017-06-30 13:09:22,914 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=41
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:22,935 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=74
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,935 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=76
+调用位置为：Downsampler.java
+2017-06-30 13:09:22,940 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=76
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,134 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=112
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,151 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=114
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,155 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=116
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,158 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=116
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,158 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=116
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,162 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=117
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,164 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=118
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,181 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=119
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,183 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=120
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,212 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=121
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,214 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=122
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,247 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=128
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=43
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=43
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=43
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=43
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,252 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=130
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,259 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,259 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,259 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,259 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,259 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,259 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,265 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=86
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,265 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=86
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,266 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=86
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,266 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=49
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,266 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=81
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,266 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=49
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,304 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=131
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,340 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=134
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,343 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=96
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,343 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=96
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,343 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=137
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,343 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=137
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,347 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,347 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,349 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=96
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,349 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=96
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,349 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=96
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,355 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=141
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,347 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,347 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,372 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=142
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,372 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=142
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,372 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=142
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,383 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=144
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,385 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=51
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,385 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=51
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,385 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=51
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,385 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=144
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,385 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=144
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,385 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=144
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,405 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=52
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,411 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=98
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,411 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=53
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,411 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=97
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,419 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=53
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,419 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=53
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,419 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=146
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,419 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=146
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,427 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=148
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,429 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=148
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,430 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=101
+调用位置为：Downsampler.java
+2017-06-30 13:09:23,465 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=151
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,470 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=152
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,475 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=153
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,477 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,483 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=156
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,483 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=156
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,483 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=156
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,483 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=156
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,488 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=158
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,488 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=158
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,488 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=158
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,488 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=158
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:23,562 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=159
+调用位置为：DecodeJob.java
+2017-06-30 13:09:23,565 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=54
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,778 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=160
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:23,788 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=161
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:25,242 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=55
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,292 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=162
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,479 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=56
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,533 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=163
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,535 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=57
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,560 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=164
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,562 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=58
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,602 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=165
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,614 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=59
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,654 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=166
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,656 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=60
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,699 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=167
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,702 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=61
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,734 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=168
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,737 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=62
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,754 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=169
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,757 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=63
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,774 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=170
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,777 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=64
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:25,795 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=171
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:32,709 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=65
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:32,891 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=172
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,908 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,909 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,909 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,909 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,909 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,909 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,909 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,919 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=176
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,941 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=177
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,963 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=178
+调用位置为：DecodeJob.java
+2017-06-30 13:09:32,969 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=179
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,035 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,036 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,036 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,036 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,036 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,036 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=73
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,449 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=182
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,452 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=184
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,455 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=185
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,465 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=186
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,469 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=187
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,454 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=185
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,475 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=187
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,475 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=187
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,492 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=189
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,505 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=189
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,505 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=189
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,517 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=190
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,541 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=192
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,551 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=74
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,553 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=193
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,553 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=193
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,577 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=194
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,594 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=196
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=201
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=201
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=201
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=201
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=201
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=201
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=201
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,914 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=201
+调用位置为：DecodeJob.java
+2017-06-30 13:09:33,930 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=76
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:33,952 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=79
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,107 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=203
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,109 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=204
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:34,112 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=156
+调用位置为：Downsampler.java
+2017-06-30 13:09:34,123 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=205
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,130 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=206
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:34,133 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=156
+调用位置为：Downsampler.java
+2017-06-30 13:09:34,162 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=207
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,165 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=208
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:34,218 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=209
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,220 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=210
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:34,272 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=211
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,274 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=212
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:34,291 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=213
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:34,293 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=214
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:38,815 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=80
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,850 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=215
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,852 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=81
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,873 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=216
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,875 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=82
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,920 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=217
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,922 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=83
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,961 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=218
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:38,963 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=84
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,010 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=219
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,012 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=85
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,028 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=220
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,030 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=86
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,079 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=221
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,081 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=87
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,111 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=222
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,115 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=88
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,138 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=223
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,140 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=89
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,197 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=224
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,199 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=90
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,222 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=225
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,224 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=91
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,270 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=226
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,272 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=92
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,322 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=227
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,325 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=93
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:39,366 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=228
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,496 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=94
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,542 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=229
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,563 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=233
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,568 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=96
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,568 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=96
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,568 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=96
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,571 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=188
+调用位置为：Downsampler.java
+2017-06-30 13:09:43,571 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=188
+调用位置为：Downsampler.java
+2017-06-30 13:09:43,571 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=237
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,571 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=237
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,636 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=238
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,640 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=239
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,648 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=240
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,651 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=242
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,651 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=242
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,651 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=242
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,651 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=242
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,656 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=243
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,660 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=246
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=250
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=250
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=250
+调用位置为：DecodeJob.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=250
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,671 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=253
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,671 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=253
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,671 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=253
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,671 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=253
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,675 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=105
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,675 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=204
+调用位置为：Downsampler.java
+2017-06-30 13:09:43,678 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=256
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,678 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=206
+调用位置为：Downsampler.java
+2017-06-30 13:09:43,678 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=206
+调用位置为：Downsampler.java
+2017-06-30 13:09:43,717 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=257
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,719 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=258
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,721 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=259
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,723 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=260
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:43,725 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=261
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:43,727 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=262
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:45,032 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=106
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:45,087 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=263
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:45,094 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=107
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:45,173 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=264
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:45,175 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=108
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:45,249 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=265
+调用位置为：FileToStreamDecoder.java
+2017-06-30 13:09:51,392 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=267
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,398 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=269
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,404 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=269
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,404 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=269
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,404 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=269
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,404 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=269
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,410 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=270
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,413 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=271
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,418 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=272
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,430 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=274
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,431 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=274
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,431 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=274
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,441 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=243
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,442 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=244
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,441 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=275
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,448 INFO  [aspectJ.TestBitmap]-[39] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=245
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,448 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=276
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,448 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=244
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,457 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=246
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,457 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=278
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,464 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=280
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,465 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=249
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,465 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=249
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,466 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=280
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,466 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=280
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,466 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=249
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,466 INFO  [aspectJ.TestBitmap]-[57] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=249
+调用位置为：Downsampler.java
+2017-06-30 13:09:51,480 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=281
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,495 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=282
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,502 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=283
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,504 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=284
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,510 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=286
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,511 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=286
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,511 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=286
+调用位置为：StreamLocalUriFetcher.java
+2017-06-30 13:09:51,529 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=287
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,534 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=288
+调用位置为：DecodeJob.java
+2017-06-30 13:09:51,545 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=289
+调用位置为：DecodeJob.java
+2017-06-30 13:10:26,994 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(DataOutputStream.close())
+closeNum=290
+调用位置为：HurlStack.java
+2017-06-30 13:10:27,060 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(PoolingByteArrayOutputStream.close())
+closeNum=291
+调用位置为：BasicNetwork.java
+2017-06-30 13:10:27,065 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(BufferedOutputStream.close())
+closeNum=292
+调用位置为：DiskBasedCache.java
+2017-06-30 13:10:31,833 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(DataOutputStream.close())
+closeNum=293
+调用位置为：HurlStack.java
+2017-06-30 13:10:31,920 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(PoolingByteArrayOutputStream.close())
+closeNum=294
+调用位置为：BasicNetwork.java
+2017-06-30 13:10:31,923 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(BufferedOutputStream.close())
+closeNum=295
+调用位置为：DiskBasedCache.java

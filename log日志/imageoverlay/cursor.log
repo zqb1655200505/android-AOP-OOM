@@ -1,0 +1,6 @@
+2017-06-30 13:09:16,647 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：ScanImageActivity.java
+2017-06-30 13:10:44,561 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：PersonalActivity.java

@@ -1,0 +1,2071 @@
+2017-05-25 16:52:20,676 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=1
+调用位置为：Helper.java
+2017-05-25 16:52:20,697 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=1
+调用位置为：HelperUtils.java
+2017-05-25 16:52:20,757 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=2
+调用位置为：Helper.java
+2017-05-25 16:52:20,763 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=1
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,766 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,769 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=2
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,773 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,778 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=3
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,782 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=3
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,784 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=4
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,789 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,789 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:52:20,789 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=5
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,789 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=5
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,798 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=6
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,798 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=6
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,798 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,798 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,802 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=7
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,807 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=6
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,811 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=8
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,813 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,813 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,818 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=8
+调用位置为：UMDBUtils.java
+2017-05-25 16:52:20,840 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=9
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,844 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=9
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,893 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=3
+调用位置为：UClient.java
+2017-05-25 16:52:20,918 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=10
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:20,924 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=10
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:20,932 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=11
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:20,935 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=11
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:20,941 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=12
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:20,944 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=12
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:20,952 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=13
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,955 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=13
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,963 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=14
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,966 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=14
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:20,971 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=2
+调用位置为：DeviceConfig.java
+2017-05-25 16:52:21,000 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=3
+调用位置为：DeviceConfig.java
+2017-05-25 16:52:21,005 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=4
+调用位置为：DeviceConfig.java
+2017-05-25 16:52:21,008 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=4
+调用位置为：DeviceConfig.java
+2017-05-25 16:52:21,017 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=5
+调用位置为：DeviceConfig.java
+2017-05-25 16:52:21,057 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=5
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,061 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=6
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,063 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=6
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,067 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=7
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,069 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：DiskLruCache.java
+2017-05-25 16:52:21,069 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：DiskLruCache.java
+2017-05-25 16:52:21,076 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=8
+调用位置为：IdTracker.java
+2017-05-25 16:52:21,090 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=8
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,106 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=9
+调用位置为：StrictLineReader.java
+2017-05-25 16:52:21,124 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=9
+调用位置为：UTDIdTracker.java
+2017-05-25 16:52:21,129 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=10
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,154 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(ByteArrayOutputStream.close())
+closeNum=11
+调用位置为：DeflaterHelper.java
+2017-05-25 16:52:21,168 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=12
+调用位置为：Utils.java
+2017-05-25 16:52:21,174 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=13
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,175 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=10
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:21,175 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=10
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:21,178 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=14
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,232 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=15
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,238 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=15
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,257 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=16
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,257 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=16
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,257 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=15
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:21,257 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=15
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:21,262 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=16
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,272 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=17
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,276 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=17
+调用位置为：CCSQLManager.java
+2017-05-25 16:52:21,314 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=11
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:21,321 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=16
+调用位置为：Utils.java
+2017-05-25 16:52:21,329 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=12
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:21,365 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=17
+调用位置为：NetworkHelper.java
+2017-05-25 16:52:21,405 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:21,409 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=19
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:21,428 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：HelperUtils.java
+2017-05-25 16:52:21,436 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=21
+调用位置为：HelperUtils.java
+2017-05-25 16:52:27,732 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=22
+调用位置为：Utils.java
+2017-05-25 16:52:27,735 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=13
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:27,744 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=23
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:47,053 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=14
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:47,105 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=24
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:48,400 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=25
+调用位置为：Utils.java
+2017-05-25 16:52:48,402 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=15
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:48,410 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=26
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:50,207 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=18
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:50,211 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=18
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:50,221 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=19
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:50,225 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=19
+调用位置为：UMStoreManager.java
+2017-05-25 16:52:50,523 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=27
+调用位置为：Utils.java
+2017-05-25 16:52:50,525 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=16
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:50,533 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=28
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:51,056 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=29
+调用位置为：Utils.java
+2017-05-25 16:52:51,062 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=17
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:51,069 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=30
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:51,150 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=18
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,168 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=31
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,171 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=19
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,188 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=32
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,192 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=20
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,201 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=33
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,204 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=21
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,216 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=34
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,219 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=22
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,233 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=35
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,235 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=23
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,246 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=36
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,249 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=24
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,258 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=37
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,261 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=25
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:51,271 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=38
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:58,947 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=26
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:58,961 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=39
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:58,966 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=27
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:58,977 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=40
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:52:59,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=41
+调用位置为：Utils.java
+2017-05-25 16:52:59,668 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=28
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:59,675 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=42
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:52:59,860 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=43
+调用位置为：Utils.java
+2017-05-25 16:52:59,862 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=29
+调用位置为：TypedByteArray.java
+2017-05-25 16:52:59,873 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=44
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:53:00,843 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=30
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,859 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=45
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,862 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=31
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,874 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,877 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=32
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,897 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=47
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,906 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=33
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,921 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=48
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,930 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=34
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,945 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=49
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:00,979 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=35
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,002 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=50
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,006 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=36
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,025 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=51
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,029 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=37
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,051 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=52
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,055 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=38
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,073 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=53
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,078 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=39
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,102 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=54
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,323 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=55
+调用位置为：Utils.java
+2017-05-25 16:53:01,327 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=40
+调用位置为：TypedByteArray.java
+2017-05-25 16:53:01,336 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=56
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:53:01,516 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=57
+调用位置为：Utils.java
+2017-05-25 16:53:01,520 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=41
+调用位置为：TypedByteArray.java
+2017-05-25 16:53:01,526 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=58
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:53:01,852 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=42
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,862 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=59
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,865 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=43
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,874 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=60
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,907 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=44
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,918 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=61
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,921 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=45
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:01,930 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=62
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:02,981 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=20
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:02,985 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=20
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:02,995 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=21
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:02,998 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=21
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:03,076 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=46
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:03,105 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=63
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:53:03,244 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=64
+调用位置为：DecodeJob.java
+2017-05-25 16:53:04,647 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=22
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:04,650 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=22
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:04,661 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=23
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:04,669 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=23
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:05,026 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=24
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:05,030 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=24
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:05,041 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=25
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:05,046 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=25
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:06,484 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=26
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:06,487 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=26
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:06,515 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=27
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:06,519 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:17,185 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=28
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:17,189 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=28
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:17,276 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=29
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:17,280 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=29
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:23,197 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=30
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:23,200 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=30
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:23,213 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=31
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:23,216 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=31
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:45,667 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=32
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:45,671 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=32
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:45,681 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=33
+调用位置为：UMStoreManager.java
+2017-05-25 16:53:45,685 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=33
+调用位置为：UMStoreManager.java
+
+
+
+
+2017-05-25 16:54:11,281 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=1
+调用位置为：Helper.java
+2017-05-25 16:54:11,281 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=1
+调用位置为：Helper.java
+2017-05-25 16:54:11,281 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=1
+调用位置为：HelperUtils.java
+2017-05-25 16:54:11,281 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=1
+调用位置为：HelperUtils.java
+2017-05-25 16:54:11,314 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=1
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,328 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,330 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=2
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,333 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,334 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=3
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,337 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=3
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,339 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=4
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,342 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：UMCCDBHelper.java
+2017-05-25 16:54:11,344 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=2
+调用位置为：Helper.java
+2017-05-25 16:54:11,346 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=5
+调用位置为：CCSQLManager.java
+2017-05-25 16:54:11,350 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：CCSQLManager.java
+2017-05-25 16:54:11,356 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=6
+调用位置为：CCSQLManager.java
+2017-05-25 16:54:11,359 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=6
+调用位置为：CCSQLManager.java
+2017-05-25 16:54:11,470 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=3
+调用位置为：UClient.java
+2017-05-25 16:54:11,575 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=2
+调用位置为：DiskLruCache.java
+2017-05-25 16:54:11,593 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=4
+调用位置为：StrictLineReader.java
+2017-05-25 16:54:11,829 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=5
+调用位置为：Utils.java
+2017-05-25 16:54:11,843 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=3
+调用位置为：TypedByteArray.java
+2017-05-25 16:54:11,920 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=6
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:54:12,080 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=4
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:54:12,160 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=7
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:54:12,310 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=8
+调用位置为：Utils.java
+2017-05-25 16:54:12,312 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=5
+调用位置为：TypedByteArray.java
+2017-05-25 16:54:12,321 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=9
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:54:14,400 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=10
+调用位置为：Utils.java
+2017-05-25 16:54:14,405 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=6
+调用位置为：TypedByteArray.java
+2017-05-25 16:54:14,413 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=11
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:54:14,461 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=7
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:54:14,478 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=12
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:54:21,286 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=13
+调用位置为：Utils.java
+2017-05-25 16:54:21,288 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=8
+调用位置为：TypedByteArray.java
+2017-05-25 16:54:21,297 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=14
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:54:25,094 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=7
+调用位置为：UMDBUtils.java
+2017-05-25 16:54:25,097 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：UMDBUtils.java
+2017-05-25 16:54:25,099 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=8
+调用位置为：UMDBUtils.java
+2017-05-25 16:54:25,102 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=8
+调用位置为：UMDBUtils.java
+2017-05-25 16:54:25,105 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=9
+调用位置为：UMDBUtils.java
+2017-05-25 16:54:25,109 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=9
+调用位置为：UMDBUtils.java
+2017-05-25 16:54:25,157 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=10
+调用位置为：UMStoreManager.java
+2017-05-25 16:54:25,172 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=10
+调用位置为：UMStoreManager.java
+2017-05-25 16:54:25,203 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=11
+调用位置为：UMStoreManager.java
+2017-05-25 16:54:25,207 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=11
+调用位置为：UMStoreManager.java
+2017-05-25 16:56:38,895 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=12
+调用位置为：UMStoreManager.java
+2017-05-25 16:56:38,953 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=12
+调用位置为：UMStoreManager.java
+2017-05-25 16:56:38,969 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=13
+调用位置为：UMStoreManager.java
+2017-05-25 16:56:38,985 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=13
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,355 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=14
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,382 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=14
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,392 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=15
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,396 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=15
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,403 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=16
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,407 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=16
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:52,416 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=17
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:52,419 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=17
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:52,426 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=18
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:52,430 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=18
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:52,458 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=9
+调用位置为：DeviceConfig.java
+2017-05-25 16:58:52,543 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=10
+调用位置为：DeviceConfig.java
+2017-05-25 16:58:52,621 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=15
+调用位置为：DeviceConfig.java
+2017-05-25 16:58:52,625 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=11
+调用位置为：DeviceConfig.java
+2017-05-25 16:58:52,631 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileInputStream.close())
+closeNum=16
+调用位置为：DeviceConfig.java
+2017-05-25 16:58:52,667 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=12
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,673 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=17
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,730 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=13
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,732 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=18
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,771 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=14
+调用位置为：IdTracker.java
+2017-05-25 16:58:52,808 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=19
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,882 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=15
+调用位置为：UTDIdTracker.java
+2017-05-25 16:58:52,886 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=20
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,912 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(ByteArrayOutputStream.close())
+closeNum=21
+调用位置为：DeflaterHelper.java
+2017-05-25 16:58:52,925 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=22
+调用位置为：HelperUtils.java
+2017-05-25 16:58:52,929 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=23
+调用位置为：HelperUtils.java
+2017-05-25 16:58:53,096 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=19
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:53,099 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=19
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:53,156 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=20
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:53,160 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=20
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:53,198 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=21
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:53,201 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=21
+调用位置为：CCSQLManager.java
+2017-05-25 16:58:53,334 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=24
+调用位置为：NetworkHelper.java
+2017-05-25 16:58:53,406 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=25
+调用位置为：HelperUtils.java
+2017-05-25 16:58:53,427 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=26
+调用位置为：HelperUtils.java
+2017-05-25 16:58:55,561 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=22
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:55,577 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=22
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:55,597 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=23
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:55,601 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=23
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:58,326 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=24
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:58,330 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=24
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:58,375 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=25
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:58,380 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=25
+调用位置为：UMStoreManager.java
+2017-05-25 16:58:58,866 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=27
+调用位置为：Utils.java
+2017-05-25 16:58:58,871 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=16
+调用位置为：TypedByteArray.java
+2017-05-25 16:58:58,885 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=28
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:58:59,553 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=29
+调用位置为：Utils.java
+2017-05-25 16:58:59,558 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=17
+调用位置为：TypedByteArray.java
+2017-05-25 16:58:59,576 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=30
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:58:59,675 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=18
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,700 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=31
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,707 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=19
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,725 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=32
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,735 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=20
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,761 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=33
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,765 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=21
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,784 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=34
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,790 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=22
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,815 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=35
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,819 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=23
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,845 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=36
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,869 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=24
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,891 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=37
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,896 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=25
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:58:59,926 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=38
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:00,697 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=26
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:00,701 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=26
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:00,713 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=27
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:00,717 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:00,748 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=26
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:00,807 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=39
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:00,939 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=40
+调用位置为：DecodeJob.java
+2017-05-25 16:59:02,987 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=28
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:02,990 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=28
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,012 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=29
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,017 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=29
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,516 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=30
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,520 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=30
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,530 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=31
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,534 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=31
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:03,555 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=27
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:03,606 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=41
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:03,753 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=42
+调用位置为：DecodeJob.java
+2017-05-25 16:59:05,478 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=32
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:05,483 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=32
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:05,494 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=33
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:05,498 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=33
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:12,900 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=28
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:12,918 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=43
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:12,921 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=29
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:12,931 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=44
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:13,098 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=45
+调用位置为：Utils.java
+2017-05-25 16:59:13,103 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：Utils.java
+2017-05-25 16:59:13,103 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=46
+调用位置为：Utils.java
+2017-05-25 16:59:13,103 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=30
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:13,103 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=30
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:13,107 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=31
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:13,112 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=47
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:13,119 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=48
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:14,182 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=32
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,193 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=49
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,198 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=33
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,209 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=50
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,341 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=34
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,354 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=51
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,357 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=35
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,381 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=52
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,469 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=36
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,482 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=53
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,484 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=37
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,504 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=54
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,507 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=38
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,519 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=55
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,522 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=39
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,536 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=56
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,750 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=40
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,763 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=57
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,765 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=41
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:14,778 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=58
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:15,290 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=59
+调用位置为：Utils.java
+2017-05-25 16:59:15,292 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=42
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:15,299 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=60
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:16,002 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=61
+调用位置为：Utils.java
+2017-05-25 16:59:16,005 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=43
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:16,011 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=62
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:16,825 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=34
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:16,829 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=34
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:16,840 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=35
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:16,843 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=35
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:16,877 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=44
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:16,933 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=63
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:22,806 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=36
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:22,811 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=36
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:22,823 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=37
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:22,826 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=37
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:23,179 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=45
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,194 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=64
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,196 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=46
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,206 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=65
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,302 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=47
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,315 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=66
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,321 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=48
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,353 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=67
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:23,945 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=38
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:23,948 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=38
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:23,958 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=39
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:23,963 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=39
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:23,991 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=49
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:24,078 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=68
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:24,184 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=69
+调用位置为：DecodeJob.java
+2017-05-25 16:59:25,757 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=40
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,761 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=40
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,770 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=41
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,774 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=41
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,906 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=42
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,909 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=42
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,920 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=43
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:25,925 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=43
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:27,786 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=44
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:27,790 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=44
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:27,806 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=45
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:27,811 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=45
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:27,957 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=50
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:27,969 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=70
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:27,971 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=51
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:27,985 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=71
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:27,988 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=52
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:27,998 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=72
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:28,001 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=53
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:28,014 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=73
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:28,906 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=54
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:28,926 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=74
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:28,929 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=55
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:28,945 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=75
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:29,639 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=46
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:29,643 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=46
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:29,652 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=47
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:29,657 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=47
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:29,664 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=56
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:29,741 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=76
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:29,821 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=77
+调用位置为：DecodeJob.java
+2017-05-25 16:59:31,137 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=48
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,142 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=48
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,155 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=49
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,162 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=49
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,295 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=50
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,300 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=50
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,311 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=51
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,315 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=51
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:31,344 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=57
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:31,430 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=78
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:31,516 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=79
+调用位置为：DecodeJob.java
+2017-05-25 16:59:36,238 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=52
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:36,246 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=52
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:36,259 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=53
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:36,264 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=53
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:36,994 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=80
+调用位置为：Utils.java
+2017-05-25 16:59:37,000 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=58
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:37,012 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=81
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:37,190 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=82
+调用位置为：Utils.java
+2017-05-25 16:59:37,192 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=59
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:37,210 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=83
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:37,813 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=60
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:37,827 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=84
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:37,831 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=61
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:37,842 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=85
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,175 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=62
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,187 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=86
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,190 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=63
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,202 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=87
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,485 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=54
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:38,504 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=54
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:38,514 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=64
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,517 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=55
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:38,523 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=55
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:38,586 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=88
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:38,663 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=89
+调用位置为：DecodeJob.java
+2017-05-25 16:59:40,458 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=56
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:40,461 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=56
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:40,473 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=57
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:40,477 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=57
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:40,688 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=65
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,699 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=90
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,701 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=66
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,712 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=91
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,715 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=67
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,724 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=92
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,727 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=68
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,739 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=93
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,974 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=69
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:40,997 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=94
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:41,006 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=70
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:41,027 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=95
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:42,105 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=58
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:42,110 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=58
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:42,120 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=59
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:42,125 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=59
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:42,153 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=71
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:42,189 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=96
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:42,304 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=97
+调用位置为：DecodeJob.java
+2017-05-25 16:59:43,539 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=60
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:43,544 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=60
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:43,556 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=61
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:43,560 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=61
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:44,716 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=98
+调用位置为：Utils.java
+2017-05-25 16:59:44,719 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=72
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:44,726 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=99
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:44,760 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=100
+调用位置为：Utils.java
+2017-05-25 16:59:44,762 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=73
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:44,768 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=101
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:45,179 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=74
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:45,191 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=102
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:46,020 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=103
+调用位置为：DecodeJob.java
+2017-05-25 16:59:46,022 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=75
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:46,089 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=104
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:46,092 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=105
+调用位置为：HttpUrlFetcher.java
+2017-05-25 16:59:46,115 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=106
+调用位置为：DecodeJob.java
+2017-05-25 16:59:46,856 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=62
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:46,861 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=62
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:46,873 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=63
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:46,878 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=63
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:46,901 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=76
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:46,937 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=107
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:49,647 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=64
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:49,653 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=64
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:49,667 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=65
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:49,673 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=65
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:50,176 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=66
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:50,180 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=66
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:50,192 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=67
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:50,197 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=67
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:51,325 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=68
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:51,331 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=68
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:51,342 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=69
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:51,347 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=69
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:51,394 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=77
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:51,517 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=108
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:51,625 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=109
+调用位置为：DecodeJob.java
+2017-05-25 16:59:57,697 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=70
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:57,703 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=70
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:57,718 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=71
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:57,723 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=71
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:59,116 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=72
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:59,121 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=72
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:59,132 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=73
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:59,136 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=73
+调用位置为：UMStoreManager.java
+2017-05-25 16:59:59,500 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=110
+调用位置为：Utils.java
+2017-05-25 16:59:59,502 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=78
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:59,507 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=111
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:59,724 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=112
+调用位置为：Utils.java
+2017-05-25 16:59:59,726 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=79
+调用位置为：TypedByteArray.java
+2017-05-25 16:59:59,732 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=113
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 16:59:59,792 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=80
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,801 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=114
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,803 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=81
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,813 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=115
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,816 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=82
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,826 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=116
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,829 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=83
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,838 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=117
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,840 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=84
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,851 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=118
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,853 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=85
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,862 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=119
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,865 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=86
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,875 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=120
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,877 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=87
+调用位置为：FileToStreamDecoder.java
+2017-05-25 16:59:59,886 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=121
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:00,588 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=88
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:00,600 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=122
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:00,603 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=89
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:00,617 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=123
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:00,969 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=124
+调用位置为：Utils.java
+2017-05-25 17:00:00,972 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=90
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:00,980 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=125
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:01,151 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=126
+调用位置为：Utils.java
+2017-05-25 17:00:01,154 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=91
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:01,161 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=127
+调用位置为：Utils.java
+2017-05-25 17:00:01,165 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=92
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:01,171 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=128
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:01,174 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=130
+调用位置为：Utils.java
+2017-05-25 17:00:01,174 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=130
+调用位置为：Utils.java
+2017-05-25 17:00:01,174 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=130
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:01,174 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=130
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:01,177 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=93
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:01,184 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=131
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:03,329 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=94
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,343 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=132
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,346 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=95
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,357 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=133
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,432 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=96
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,442 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=134
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,444 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=97
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,456 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=135
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,654 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=98
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,665 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=136
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,667 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=99
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,681 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=137
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,684 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=100
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,695 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=138
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,697 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=101
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:03,708 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=139
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:04,120 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=102
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:04,131 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=140
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:04,134 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=103
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:04,145 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=141
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,680 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=142
+调用位置为：Utils.java
+2017-05-25 17:00:05,684 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=143
+调用位置为：Utils.java
+2017-05-25 17:00:05,687 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=105
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:05,694 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=144
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:05,702 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=145
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:05,890 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=106
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,902 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=146
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,904 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=107
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,917 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=147
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,950 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=108
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,962 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=148
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,965 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=109
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,975 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=149
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,977 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=110
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,986 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=150
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:05,988 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=111
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:06,000 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=151
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:06,022 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=112
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:06,032 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=152
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:06,034 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=113
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:06,044 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=153
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:09,211 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=154
+调用位置为：Utils.java
+2017-05-25 17:00:09,214 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=114
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:09,221 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=155
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:10,361 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=156
+调用位置为：Utils.java
+2017-05-25 17:00:10,365 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=115
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:10,372 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=157
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:10,864 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=158
+调用位置为：DecodeJob.java
+2017-05-25 17:00:10,867 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=116
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:10,907 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=159
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:10,910 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=160
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:10,939 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=161
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,062 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=162
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,066 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=117
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,080 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=163
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,085 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=118
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,107 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=164
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,109 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=165
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,135 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=166
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,138 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=168
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,138 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=168
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,138 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=168
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,138 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=168
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,165 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=169
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,362 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=170
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,365 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=119
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,424 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=171
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,426 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=172
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,458 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=173
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,518 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=174
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,553 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=120
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,621 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=175
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,629 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=121
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,658 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=176
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,663 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=177
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,683 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=178
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,701 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=122
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,729 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=179
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,809 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=181
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,810 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=181
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,810 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=181
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:11,812 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=183
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,812 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=183
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,812 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=183
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,812 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=183
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:11,841 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=184
+调用位置为：DecodeJob.java
+2017-05-25 17:00:11,849 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=185
+调用位置为：DecodeJob.java
+2017-05-25 17:00:12,200 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=186
+调用位置为：DecodeJob.java
+2017-05-25 17:00:12,203 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=123
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:12,283 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=187
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:12,285 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=188
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:12,313 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=189
+调用位置为：DecodeJob.java
+2017-05-25 17:00:15,540 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=191
+调用位置为：Utils.java
+2017-05-25 17:00:15,542 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=191
+调用位置为：Utils.java
+2017-05-25 17:00:15,542 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=191
+调用位置为：Utils.java
+2017-05-25 17:00:15,546 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(ByteArrayInputStream(..))
+openNum=125
+调用位置为：TypedByteArray.java
+2017-05-25 17:00:15,555 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=192
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:15,559 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=193
+调用位置为：ExceptionCatchingTypedInput.java
+2017-05-25 17:00:19,597 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=74
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:19,602 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=74
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:19,613 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=75
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:19,619 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=75
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:19,642 INFO  [aspectJ.TestIOStream]-[32] 当前切点：call(FileInputStream(..))
+openNum=126
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:19,735 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=194
+调用位置为：FileToStreamDecoder.java
+2017-05-25 17:00:19,821 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=195
+调用位置为：DecodeJob.java
+2017-05-25 17:00:26,679 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(InputStream.close())
+closeNum=196
+调用位置为：HttpUrlFetcher.java
+2017-05-25 17:00:26,827 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(OutputStream.close())
+closeNum=197
+调用位置为：DecodeJob.java
+2017-05-25 17:00:27,143 INFO  [aspectJ.TestIOStream]-[49] 当前切点：call(FileOutputStream.close())
+closeNum=198
+调用位置为：GirlFacePresenter.java
+2017-05-25 17:00:29,067 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=76
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:29,072 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=76
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:29,086 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=77
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:29,094 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=77
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:29,988 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=78
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:29,993 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=78
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:30,006 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=79
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:30,012 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=79
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:33,047 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=80
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:33,058 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=80
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:33,100 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=81
+调用位置为：UMStoreManager.java
+2017-05-25 17:00:33,106 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=81
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:52,077 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=82
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:52,085 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=82
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:52,099 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=83
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:52,104 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=83
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:53,226 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=84
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:53,232 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=84
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:53,249 INFO  [aspectJ.TestCursor]-[30] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=85
+调用位置为：UMStoreManager.java
+2017-05-25 17:02:53,254 INFO  [aspectJ.TestCursor]-[47] 当前切点：call(Cursor.close())
+closeNum=85
+调用位置为：UMStoreManager.java

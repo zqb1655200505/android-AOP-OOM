@@ -1,0 +1,3195 @@
+2017-06-30 14:34:12,287 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=1
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,291 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:12,315 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.query(..))
+openNum=2
+调用位置为：DataBaseDao.java
+2017-06-30 14:34:12,318 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：DataBaseDao.java
+2017-06-30 14:34:12,743 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=3
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,746 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=3
+调用位置为：SiteHolder.java
+2017-06-30 14:34:12,754 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=4
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,757 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:12,763 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=5
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,765 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:12,767 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=6
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,770 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=6
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:12,798 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=7
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,802 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=8
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,831 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：SiteHolder.java
+2017-06-30 14:34:12,836 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=9
+调用位置为：DBHelper.java
+2017-06-30 14:34:12,845 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=10
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:12,851 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=11
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:12,855 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=8
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:12,857 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=9
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:12,903 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=10
+调用位置为：SiteHolder.java
+2017-06-30 14:34:12,906 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=11
+调用位置为：SiteHolder.java
+2017-06-30 14:34:13,047 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=12
+调用位置为：DBHelper.java
+2017-06-30 14:34:13,059 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=12
+调用位置为：FavorTagHolder.java
+2017-06-30 14:34:13,100 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=13
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,103 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=14
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,106 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=13
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,109 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=14
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,207 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=15
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,210 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=16
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,225 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=15
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,228 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=16
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,262 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=17
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,264 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=17
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,373 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=18
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,377 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=19
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,377 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=19
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,377 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=18
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,377 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=18
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,382 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=20
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,382 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=20
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,382 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=19
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,382 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=19
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,384 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=21
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,384 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=21
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,384 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=20
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,384 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=20
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,388 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=22
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,388 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=22
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,388 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=21
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,388 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=21
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,390 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=23
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,390 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=23
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,390 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=22
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,390 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=22
+调用位置为：UMDBUtils.java
+2017-06-30 14:34:13,396 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=23
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,398 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=24
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,401 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=24
+调用位置为：UMCCDBHelper.java
+2017-06-30 14:34:13,408 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=25
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:13,411 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=25
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:13,420 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=26
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,421 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=28
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:13,421 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=28
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:13,421 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=28
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,421 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=28
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,425 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:13,425 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:13,425 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,425 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,429 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=28
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,973 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=29
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,977 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=30
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,980 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=29
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,984 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=31
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:13,984 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=31
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,012 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeResource(..))
+closeNum=1
+调用位置为：MaterialAnimatedSwitch.java
+2017-06-30 14:34:14,012 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=32
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:14,017 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=32
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:14,017 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeResource(..))
+createNum=2
+调用位置为：MaterialAnimatedSwitch.java
+2017-06-30 14:34:14,024 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=33
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:14,028 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=33
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:14,042 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=34
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:14,047 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=34
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:14,057 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=35
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:14,069 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=35
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:14,198 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=36
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,201 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=36
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,206 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=37
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,212 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=37
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,258 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=38
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,303 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=39
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,307 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=38
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,310 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=39
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,369 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=40
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,378 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=40
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,381 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=41
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,383 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=41
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,563 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=42
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,651 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(OutputStream.close())
+closeNum=9
+调用位置为：DocumentUtil.java
+2017-06-30 14:34:14,651 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=43
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,671 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=42
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,674 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=43
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,903 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=44
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,908 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=45
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,912 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=44
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:14,915 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=45
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,057 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=46
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,063 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=46
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,068 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=47
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(InputStream.close())
+closeNum=14
+调用位置为：Entities.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=14
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:34:15,138 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=47
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,147 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=48
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,158 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=48
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,167 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=49
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,171 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=49
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,174 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=50
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,229 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=50
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,241 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=51
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,241 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=5
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:15,245 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=53
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,245 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=53
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,249 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=53
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,249 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=53
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,252 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=53
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,252 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=53
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,252 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=53
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,256 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=54
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,258 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=54
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,261 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=55
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,264 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=55
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,266 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=56
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,268 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=56
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,268 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=56
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,268 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=57
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,268 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=57
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,271 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=57
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,271 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=57
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,271 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=58
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,271 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=58
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,275 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=58
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,278 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=59
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,281 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=59
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,283 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=60
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,286 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=61
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,286 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=61
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,286 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=60
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,286 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=60
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,290 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=61
+调用位置为：CCSQLManager.java
+2017-06-30 14:34:15,773 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=62
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,778 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=63
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,782 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=62
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,786 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=63
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,793 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=64
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,796 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=65
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,799 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=64
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:15,802 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=65
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,061 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=66
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,073 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=67
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,081 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=68
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,081 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=68
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,081 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=66
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,081 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=66
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,096 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:16,096 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=20
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:16,102 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=68
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,103 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=68
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,103 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=68
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,108 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=69
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,111 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=69
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,113 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=70
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,113 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=20
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:16,118 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=70
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,175 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=71
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,177 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=71
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,180 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=72
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,182 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=72
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,184 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=74
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,185 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=74
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,185 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=74
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,188 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=74
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,188 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=74
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,188 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=74
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,188 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=74
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,191 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=75
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,193 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=75
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,196 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=76
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,198 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=76
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,200 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=77
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,203 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=77
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,205 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=78
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,207 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=78
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,217 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=79
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,219 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=79
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,219 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=79
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,219 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=80
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,219 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=80
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,223 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=80
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,223 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=80
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,223 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=81
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,223 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=81
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,226 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=81
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,228 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=82
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,230 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=82
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,232 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=83
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,235 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=83
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,238 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=85
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,238 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=85
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,238 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=85
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,238 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=85
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,241 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=85
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,241 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=85
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,241 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=85
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,241 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=85
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,244 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=86
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,246 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=86
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:16,261 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=87
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,263 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=87
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,299 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=88
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,302 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=88
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,304 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=89
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,306 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=89
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,308 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=90
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,310 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=90
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,312 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=91
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,315 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=91
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:16,356 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=92
+调用位置为：DBHelper.java
+2017-06-30 14:34:16,359 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=92
+调用位置为：SiteTagHolder.java
+2017-06-30 14:34:17,571 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=93
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:17,576 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=93
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:17,639 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=94
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:17,642 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=94
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:17,769 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=95
+调用位置为：DBHelper.java
+2017-06-30 14:34:17,772 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=95
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:17,775 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=96
+调用位置为：DBHelper.java
+2017-06-30 14:34:17,777 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=96
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:17,860 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=97
+调用位置为：DBHelper.java
+2017-06-30 14:34:17,867 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=97
+调用位置为：FavouriteHolder.java
+2017-06-30 14:34:19,523 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=98
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:19,527 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=98
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:19,555 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=99
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:19,558 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=99
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:21,573 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=100
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:21,576 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=100
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:21,593 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=101
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:21,597 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=101
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:22,321 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=102
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:22,324 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=102
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:22,343 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=103
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:22,346 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=103
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:22,426 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=104
+调用位置为：DBHelper.java
+2017-06-30 14:34:22,428 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=104
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:23,244 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=105
+调用位置为：DBHelper.java
+2017-06-30 14:34:23,247 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=105
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:34:33,189 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=106
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,192 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=106
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,491 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=107
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,495 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=107
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,502 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=108
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,505 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=108
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,507 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=109
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,509 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=109
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,511 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=110
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,514 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=110
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,516 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=111
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,518 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=111
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,520 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=112
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,522 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=112
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,524 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=113
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,526 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=113
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,529 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=114
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,532 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=114
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,534 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=115
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,537 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=115
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,539 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=116
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,541 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=116
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,543 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=117
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,545 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=117
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,548 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=118
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,550 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=118
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,552 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=119
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,555 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=119
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,557 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=120
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,559 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=120
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,826 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=121
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,829 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=121
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,846 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=122
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,849 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=122
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,862 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=123
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,864 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=123
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,883 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=124
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:33,886 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=124
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,135 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=125
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,143 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=44
+调用位置为：ArtDecoder.java
+2017-06-30 14:34:34,143 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=125
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,154 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=126
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,157 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=126
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,159 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=127
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,162 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=127
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,164 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=128
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,166 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=128
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,168 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=129
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,170 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=129
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,172 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=130
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,175 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=130
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,177 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=131
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,183 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=131
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,185 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=132
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,187 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=132
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,189 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=133
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,191 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=133
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,194 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=134
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,196 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=134
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,198 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=135
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,200 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=135
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,202 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=136
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,204 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=136
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,206 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=137
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,208 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=137
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,210 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=138
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:34,213 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=138
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:34:36,032 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=139
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:36,035 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=139
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:36,065 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=140
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:36,069 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=140
+调用位置为：UMStoreManager.java
+2017-06-30 14:34:36,679 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=141
+调用位置为：DBHelper.java
+2017-06-30 14:34:36,682 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=141
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:00,428 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=142
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,438 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=142
+调用位置为：SiteHolder.java
+2017-06-30 14:35:00,445 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=143
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,448 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=143
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:00,453 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=144
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,456 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=144
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:00,464 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=145
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,466 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=146
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,486 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=145
+调用位置为：SiteHolder.java
+2017-06-30 14:35:00,489 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=147
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,530 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=146
+调用位置为：SiteHolder.java
+2017-06-30 14:35:00,531 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=147
+调用位置为：SiteHolder.java
+2017-06-30 14:35:00,557 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=148
+调用位置为：DBHelper.java
+2017-06-30 14:35:00,561 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=148
+调用位置为：FavorTagHolder.java
+2017-06-30 14:35:00,860 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=149
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,863 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=149
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,889 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=150
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,893 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=151
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,896 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=150
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,898 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=151
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,926 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=152
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,928 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=152
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,930 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=153
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:00,933 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=153
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,008 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=154
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,010 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=154
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,016 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=155
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,018 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=155
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,020 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=156
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,023 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=156
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,025 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=157
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,027 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=157
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,030 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=158
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,032 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=158
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,033 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=159
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,036 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=159
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,038 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=160
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,041 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=160
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,043 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=161
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,045 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=161
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,047 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=162
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,049 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=162
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,051 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=163
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,054 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=163
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,060 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=164
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,066 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=164
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,073 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=165
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,087 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=165
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,092 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=166
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,109 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=166
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,123 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=167
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,146 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=54
+调用位置为：BitmapUtil.java
+2017-06-30 14:35:01,162 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=168
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,163 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(ClassNotFoundException.close())
+closeNum=41
+调用位置为：NetworkFetchProducer.java
+2017-06-30 14:35:01,170 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=168
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,177 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=169
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,181 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=169
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:01,184 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=55
+调用位置为：ArtDecoder.java
+2017-06-30 14:35:06,643 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=170
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,648 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=170
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,649 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=171
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,651 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=171
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,653 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=172
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,658 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=172
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,710 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=173
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,713 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=173
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,720 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=174
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,725 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=174
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,728 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=175
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,735 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=175
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,739 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=176
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,756 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=176
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,768 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=177
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,771 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=177
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,773 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=178
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,775 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=178
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,777 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=179
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,779 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=179
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,781 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=180
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,783 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=180
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:06,785 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=181
+调用位置为：DBHelper.java
+2017-06-30 14:35:06,787 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=181
+调用位置为：SiteTagHolder.java
+2017-06-30 14:35:08,892 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=182
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:08,896 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=182
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:08,911 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=183
+调用位置为：DBHelper.java
+2017-06-30 14:35:08,913 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=184
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:08,913 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=184
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:08,913 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=183
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:08,913 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=183
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:08,915 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=185
+调用位置为：DBHelper.java
+2017-06-30 14:35:08,916 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=184
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:08,916 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=184
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:08,918 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=185
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:10,392 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=186
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:10,395 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=186
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:10,419 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=187
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:10,423 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=187
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:11,330 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=188
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:11,335 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=188
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:11,351 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=189
+调用位置为：DBHelper.java
+2017-06-30 14:35:11,353 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=190
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:11,353 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=190
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:11,353 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=189
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:11,353 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=189
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:11,357 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=190
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:11,404 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=191
+调用位置为：DBHelper.java
+2017-06-30 14:35:11,406 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=191
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:11,410 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=192
+调用位置为：DBHelper.java
+2017-06-30 14:35:11,412 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=192
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:11,448 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=193
+调用位置为：DBHelper.java
+2017-06-30 14:35:11,450 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=193
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:12,534 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=194
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,539 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=195
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,543 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=194
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,545 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=195
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,569 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=196
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,573 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=196
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,589 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=197
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,592 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=198
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,596 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=197
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,599 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=198
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,627 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=199
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,630 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=199
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,645 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=200
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,648 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=201
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,652 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=200
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,654 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=201
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,678 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=202
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,682 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=202
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,684 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=203
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:12,687 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=203
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:35:14,761 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=204
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:14,764 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=204
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:14,782 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=205
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:14,786 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=205
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:15,773 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=206
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:15,777 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=206
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:15,795 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=207
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:15,800 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=207
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:16,660 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=208
+调用位置为：DBHelper.java
+2017-06-30 14:35:16,673 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=208
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:23,075 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=209
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:23,078 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=209
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:23,116 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=210
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:23,126 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=210
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:34,812 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=211
+调用位置为：DBHelper.java
+2017-06-30 14:35:34,829 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=211
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:36,235 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=212
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:36,244 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=212
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:36,276 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=213
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:36,280 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=213
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:37,169 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=214
+调用位置为：DBHelper.java
+2017-06-30 14:35:37,172 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=214
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:44,211 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=215
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:44,215 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=215
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:44,261 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=216
+调用位置为：DBHelper.java
+2017-06-30 14:35:44,263 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=218
+调用位置为：DBHelper.java
+2017-06-30 14:35:44,266 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=217
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:44,266 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=217
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:44,266 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=217
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:44,266 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=217
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:44,285 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=218
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:44,287 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=219
+调用位置为：DBHelper.java
+2017-06-30 14:35:44,289 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=220
+调用位置为：DBHelper.java
+2017-06-30 14:35:44,308 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=219
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:44,310 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=220
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:47,691 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=221
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:47,695 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=221
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:47,729 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=223
+调用位置为：DBHelper.java
+2017-06-30 14:35:47,729 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=223
+调用位置为：DBHelper.java
+2017-06-30 14:35:47,729 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=223
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:47,729 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=223
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:47,731 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=222
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:47,734 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=223
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:47,736 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=224
+调用位置为：DBHelper.java
+2017-06-30 14:35:47,738 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=224
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:47,782 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=225
+调用位置为：DBHelper.java
+2017-06-30 14:35:47,784 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=225
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:49,651 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=226
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:49,655 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=226
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:49,672 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=227
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:49,677 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=227
+调用位置为：UMStoreManager.java
+2017-06-30 14:35:50,638 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=228
+调用位置为：DBHelper.java
+2017-06-30 14:35:50,640 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=228
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:35:52,569 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=229
+调用位置为：DBHelper.java
+2017-06-30 14:35:52,571 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=230
+调用位置为：DBHelper.java
+2017-06-30 14:35:52,574 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=229
+调用位置为：FavouriteHolder.java
+2017-06-30 14:35:52,577 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=230
+调用位置为：FavouriteHolder.java
+2017-06-30 14:36:03,153 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=231
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:03,156 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=231
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:03,174 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=232
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:03,178 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=232
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:04,070 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=233
+调用位置为：DBHelper.java
+2017-06-30 14:36:04,073 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=233
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:36:04,934 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=234
+调用位置为：DBHelper.java
+2017-06-30 14:36:04,936 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=234
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:04,974 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=235
+调用位置为：DBHelper.java
+2017-06-30 14:36:04,978 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=235
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:04,984 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=236
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:04,984 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=76
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,987 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=237
+调用位置为：DBHelper.java
+2017-06-30 14:36:04,987 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=76
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:04,989 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=237
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,048 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=238
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,050 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=238
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,052 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=239
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,055 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=239
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,057 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=240
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,059 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=240
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,063 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=241
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,065 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=241
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,115 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=242
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,118 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=242
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,120 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=243
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,122 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=243
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,124 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=244
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,126 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=244
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,128 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=245
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,130 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=245
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,381 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=246
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,384 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=246
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,398 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=247
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,401 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=247
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,796 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=248
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,798 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=248
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,800 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=249
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,802 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=249
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,804 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=250
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,806 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=250
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,824 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=251
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,827 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=251
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,849 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=252
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,851 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=252
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:05,858 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=253
+调用位置为：DBHelper.java
+2017-06-30 14:36:05,861 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=253
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:07,452 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=254
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:07,456 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=254
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:07,472 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=255
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:07,476 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=255
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:12,519 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=256
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,523 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=257
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,529 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=256
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,531 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=257
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,565 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=258
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,568 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=258
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,571 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=259
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,574 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=259
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,576 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=260
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,579 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=260
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,581 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=261
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,584 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=261
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,586 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=262
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,589 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=262
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,591 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=263
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,594 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=263
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,596 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=264
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,599 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=264
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,601 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=265
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,604 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=265
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,606 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=266
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,609 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=266
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,612 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=267
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,615 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=267
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,617 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=268
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,620 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=268
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,623 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=269
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,625 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=269
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,628 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=270
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,631 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=270
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,648 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=271
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,651 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=272
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,654 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=271
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,658 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=272
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,687 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=273
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,690 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=273
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,692 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=274
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,694 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=274
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,697 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=275
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,700 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=275
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,703 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=276
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,705 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=276
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,708 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=277
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,710 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=277
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,712 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=278
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,715 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=278
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,718 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=279
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,720 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=279
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,723 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=280
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,727 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=280
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,729 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=281
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,732 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=281
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,736 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=282
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,741 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=282
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,744 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=283
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,746 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=283
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,749 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=284
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,751 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=284
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,753 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=285
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,756 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=285
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,759 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=286
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,761 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=286
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,764 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=287
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,767 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=287
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,780 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=288
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,783 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=289
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,786 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=288
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,789 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=289
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,805 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=290
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,809 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=290
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,811 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=291
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,814 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=291
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,829 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=292
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,832 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=293
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,835 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=292
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,837 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=293
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,858 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=294
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,863 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=294
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,866 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=295
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,869 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=295
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,872 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=296
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,875 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=296
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,878 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=297
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,881 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=297
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,884 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=298
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,887 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=298
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,889 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=299
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,892 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=299
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,894 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=300
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,899 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=300
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,902 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=301
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,904 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=301
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,906 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=302
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,908 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=302
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,910 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=303
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,912 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=303
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,914 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=304
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,917 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=304
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,919 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=305
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,922 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=305
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,924 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=306
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,926 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=306
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,937 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=307
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,940 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=308
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,942 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=307
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,944 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=308
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,959 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=309
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,961 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=309
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,972 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=310
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,975 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=311
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,977 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=310
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,979 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=311
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,994 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=312
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,996 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=312
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:12,999 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=313
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,001 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=313
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,002 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=314
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,007 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=314
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,010 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=315
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,016 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=315
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,019 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=316
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,021 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=316
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,023 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=317
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,026 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=317
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,028 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=318
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,031 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=318
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,033 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=319
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,035 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=319
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,037 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=320
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,039 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=320
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,041 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=321
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,043 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=321
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,046 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=322
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,049 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=322
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,051 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=323
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,053 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=323
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,055 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=324
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,057 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=324
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,069 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=325
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,072 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=326
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,074 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=325
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,078 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=326
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,097 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=327
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,100 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=327
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,111 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=328
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,114 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=329
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,116 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=328
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,119 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=329
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,134 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=330
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,137 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=330
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,140 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=331
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:13,143 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=331
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:18,893 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=332
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:18,898 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=332
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:18,932 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=333
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:18,936 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=333
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:19,813 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=334
+调用位置为：DBHelper.java
+2017-06-30 14:36:19,816 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=334
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:36:20,956 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=335
+调用位置为：DBHelper.java
+2017-06-30 14:36:20,993 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=336
+调用位置为：DBHelper.java
+2017-06-30 14:36:20,998 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=336
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,012 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=337
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,015 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=337
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,030 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=338
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,033 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=338
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,127 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=339
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,130 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=339
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,132 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=340
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,135 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=340
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,137 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=341
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,139 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=341
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,145 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=342
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,148 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=342
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,340 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=343
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,342 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=343
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:21,701 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=344
+调用位置为：DBHelper.java
+2017-06-30 14:36:21,713 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=344
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,035 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=345
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,038 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=345
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,048 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=346
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,050 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=346
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,058 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=347
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,061 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=347
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,069 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=348
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,071 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=348
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,326 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=349
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,329 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=349
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,416 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=350
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,421 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=350
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,423 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=351
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,429 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=122
+调用位置为：BitmapUtil.java
+2017-06-30 14:36:22,429 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=351
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,445 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=352
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,451 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=352
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,452 INFO  [aspectJ.TestIOStream]-[?] 当前切点：call(FileOutputStream.close())
+closeNum=86
+调用位置为：DefaultDiskStorage.java
+2017-06-30 14:36:22,463 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=353
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,464 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=123
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,544 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=354
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,547 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=354
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,549 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=355
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,551 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=355
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,597 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=356
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,598 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=128
+调用位置为：BitmapUtil.java
+2017-06-30 14:36:22,601 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=356
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,603 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=357
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,603 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=129
+调用位置为：ArtDecoder.java
+2017-06-30 14:36:22,785 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=358
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,789 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=358
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,793 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=359
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,795 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=359
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,797 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=360
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,799 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=360
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,912 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=361
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,915 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=361
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,922 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=362
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,924 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=362
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,931 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=363
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,933 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=363
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:22,933 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+createNum=134
+调用位置为：BitmapUtil.java
+2017-06-30 14:36:22,937 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=364
+调用位置为：DBHelper.java
+2017-06-30 14:36:22,938 INFO  [aspectJ.TestBitmap]-[?] 当前切点：call(BitmapFactory.decodeStream(..))
+closeNum=134
+调用位置为：BitmapUtil.java
+2017-06-30 14:36:23,095 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=365
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,098 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=365
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,101 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=366
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,103 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=366
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,105 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=367
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,107 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=367
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,109 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=368
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,111 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=368
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,221 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=369
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,224 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=369
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,226 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=370
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,229 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=370
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,232 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=371
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,235 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=371
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,238 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=372
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,240 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=372
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:23,544 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=373
+调用位置为：DBHelper.java
+2017-06-30 14:36:23,567 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=373
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:34,136 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=374
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,139 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=374
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,295 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=375
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,298 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=375
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,306 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=376
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,309 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=376
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,312 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=377
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:34,315 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=377
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:36:35,291 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=378
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,296 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=378
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,310 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=379
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,313 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=379
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,314 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=380
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,317 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=380
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,319 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=381
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,321 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=381
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,329 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=382
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,331 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=382
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,333 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=383
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,335 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=383
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,337 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=384
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,339 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=384
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,341 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=385
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,344 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=385
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,346 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=386
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,348 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=386
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,350 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=387
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,352 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=387
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,354 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=388
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,356 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=388
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,358 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=389
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,360 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=389
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:35,362 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=390
+调用位置为：DBHelper.java
+2017-06-30 14:36:35,365 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=390
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,107 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=391
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,126 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=391
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,146 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=392
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,154 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=392
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,158 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=393
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,166 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=393
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,178 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=394
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,183 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=394
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,188 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=395
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,194 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=395
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,200 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=396
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,206 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=396
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,292 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=397
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,307 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=397
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,309 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=398
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,320 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=398
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,325 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=399
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,336 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=399
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,355 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=400
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,366 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=400
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,372 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=401
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,376 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=401
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,400 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=402
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,405 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=402
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,409 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=403
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,412 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=403
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:41,414 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=404
+调用位置为：DBHelper.java
+2017-06-30 14:36:41,417 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=404
+调用位置为：SiteTagHolder.java
+2017-06-30 14:36:42,633 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=405
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:42,637 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=405
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:42,653 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=406
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:42,658 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=406
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:42,689 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=407
+调用位置为：DBHelper.java
+2017-06-30 14:36:42,691 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=407
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:36:42,695 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=408
+调用位置为：DBHelper.java
+2017-06-30 14:36:42,697 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=408
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:36:42,729 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=409
+调用位置为：DBHelper.java
+2017-06-30 14:36:42,731 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=409
+调用位置为：FavouriteHolder.java
+2017-06-30 14:36:44,403 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=410
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:44,408 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=410
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:44,423 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=411
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:44,430 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=411
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:47,031 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=412
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:47,034 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=412
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:47,053 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=413
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:47,057 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=413
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:47,954 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=414
+调用位置为：DBHelper.java
+2017-06-30 14:36:47,957 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=414
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:36:48,413 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=415
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:48,416 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=415
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:48,433 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=416
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:48,437 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=416
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:52,316 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=417
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:52,323 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=417
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:52,759 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=418
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:52,960 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=418
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:53,255 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=419
+调用位置为：DBHelper.java
+2017-06-30 14:36:53,257 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=419
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:36:53,726 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=420
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:53,730 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=420
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:53,784 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=421
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:53,789 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=421
+调用位置为：UMStoreManager.java
+2017-06-30 14:36:54,756 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=422
+调用位置为：DBHelper.java
+2017-06-30 14:36:54,759 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=422
+调用位置为：DownloadTaskHolder.java
+2017-06-30 14:37:01,792 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=423
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:01,801 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=423
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:01,827 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=424
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:01,832 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=424
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:12,632 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=425
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,638 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=426
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,642 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=425
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,645 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=426
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,705 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=427
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,708 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=427
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,712 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=428
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,715 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=428
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,719 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=429
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,722 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=429
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,724 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=430
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,727 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=430
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,730 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=431
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,736 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=431
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,739 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=432
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,742 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=432
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,744 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=433
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,747 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=433
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,750 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=434
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,753 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=434
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,760 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=435
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,768 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=435
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,778 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=436
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,784 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=436
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,788 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=437
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,791 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=437
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,793 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=438
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,795 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=438
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,798 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=439
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,800 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=439
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,831 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=440
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,834 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=441
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,837 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=440
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,840 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=441
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,861 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=442
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,864 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=442
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,880 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=443
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,883 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=444
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,886 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=443
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,889 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=444
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,907 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=445
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,910 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=445
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,924 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=446
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,927 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=447
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,932 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=446
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,934 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=447
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,953 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=448
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,956 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=448
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,959 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=449
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,962 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=449
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,964 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=450
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,967 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=450
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,970 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=451
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,973 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=451
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,985 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=452
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,988 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=452
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,990 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=453
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,994 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=453
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,996 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=454
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:12,999 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=454
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,001 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=455
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,004 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=455
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,006 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=456
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,009 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=456
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,011 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=457
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,014 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=457
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,016 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=458
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,019 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=458
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,022 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=459
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,024 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=459
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,028 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=460
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,033 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=460
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,043 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=461
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,047 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=462
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,050 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=461
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,052 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=462
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,066 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=463
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,069 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=463
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,071 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=464
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,073 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=464
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,075 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=465
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,077 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=465
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,079 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=466
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,081 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=466
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,083 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=467
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,085 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=467
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,087 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=468
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,089 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=468
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,091 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=469
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,093 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=469
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,096 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=470
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,098 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=470
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,100 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=471
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,102 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=471
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,104 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=472
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,106 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=472
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,108 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=473
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,110 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=473
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,115 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=474
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,118 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=474
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,120 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=475
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,126 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=475
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,137 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=476
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,139 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=477
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,141 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=476
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,143 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=477
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,156 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=478
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,158 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=478
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,160 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=479
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,162 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=479
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,172 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=480
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,174 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=481
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,177 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=480
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,179 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=481
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,191 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=482
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,194 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=482
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,196 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=483
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,198 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=483
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,199 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=484
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,201 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=484
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,203 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=485
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,204 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=485
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,206 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=486
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,208 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=486
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,210 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=487
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,212 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=487
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,214 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=488
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,215 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=488
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,217 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=489
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,219 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=489
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,221 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=490
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,222 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=490
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,224 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=491
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,226 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=491
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,228 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=492
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,232 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=492
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,235 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=493
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,241 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=493
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,242 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=494
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,245 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=494
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,255 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=495
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,257 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=496
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,259 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=495
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,261 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=496
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,275 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=497
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,277 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=497
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,279 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=498
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:13,281 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=498
+调用位置为：DNSCacheDatabaseHelper.java
+2017-06-30 14:37:22,875 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=499
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:22,886 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=499
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:23,003 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=500
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:23,011 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=500
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:44,546 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=501
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:44,553 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=501
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:44,598 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=502
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:44,604 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=502
+调用位置为：UMStoreManager.java
+2017-06-30 14:37:45,266 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=503
+调用位置为：DBHelper.java
+2017-06-30 14:37:45,276 INFO  [aspectJ.TestCursor]-[?] 当前切点：call(Cursor.close())
+closeNum=503
+调用位置为：DownloadTaskHolder.java

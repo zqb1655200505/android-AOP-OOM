@@ -1,0 +1,1188 @@
+2017-06-30 13:14:10,202 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=1
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:10,209 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:25,164 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=2
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:25,185 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:28,986 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=3
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:28,998 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=3
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:29,953 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=4
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:29,972 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=5
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:29,975 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:29,977 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:30,725 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=6
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:30,730 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=7
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:30,732 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=6
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:30,735 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:31,647 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=8
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:31,649 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=9
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:31,652 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=8
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:31,654 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=9
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:32,886 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=10
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:32,898 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=11
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:32,900 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=10
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:32,902 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=11
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:33,887 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=12
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:33,898 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=13
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:33,901 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=12
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:33,904 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=13
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:35,147 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=14
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:35,181 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=15
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:35,184 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=14
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:35,186 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=15
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:36,375 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=16
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:36,377 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=17
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:36,381 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=16
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:36,385 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=17
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,057 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=18
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,060 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=18
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,310 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=19
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,318 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=20
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,321 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=19
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,322 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=20
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,968 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=21
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,971 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=22
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,973 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=21
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:37,975 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=22
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:38,656 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=23
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:38,659 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=24
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:38,662 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=23
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:38,663 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=24
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:39,552 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=25
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:39,599 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=25
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:40,546 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=26
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:40,550 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=27
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:40,553 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=26
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:40,555 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=27
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:41,820 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=28
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:41,822 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=29
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:41,825 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=28
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:41,828 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=29
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:42,771 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=30
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:42,788 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=31
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:42,791 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=30
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:42,793 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=31
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:43,733 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=32
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:43,737 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=33
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:43,740 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=32
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:43,742 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=33
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:44,928 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=34
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:44,930 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=35
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:44,933 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=34
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:44,935 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=35
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:45,650 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=36
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:45,652 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=37
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:45,655 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=36
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:45,657 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=37
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:46,654 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=38
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:46,657 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=39
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:46,660 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=38
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:46,664 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=39
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:47,627 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=40
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:47,629 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=41
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:47,632 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=40
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:47,634 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=41
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:48,538 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=42
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:48,541 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=43
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:48,543 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=42
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:48,546 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=43
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:49,882 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=44
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:50,037 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=44
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:50,920 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=45
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:50,923 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=46
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:50,926 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=45
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:50,929 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=46
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:51,729 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=47
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:51,733 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=48
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:51,736 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=47
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:51,738 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=48
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:52,451 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=49
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:52,455 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=50
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:52,458 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=49
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:52,464 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=50
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:53,331 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=51
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:53,334 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=52
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:53,337 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=51
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:53,339 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=52
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:54,614 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=53
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:54,617 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=54
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:54,620 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=53
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:54,622 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=54
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:55,644 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=55
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:55,647 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=56
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:55,649 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=55
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:55,651 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=56
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:56,385 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=57
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:56,404 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=58
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:56,414 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=57
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:56,417 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=58
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:57,170 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=59
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:57,173 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=60
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:57,176 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=59
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:57,177 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=60
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:58,145 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=61
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:58,148 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=62
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:58,151 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=61
+调用位置为：DatabaseManager.java
+2017-06-30 13:14:58,154 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=62
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:00,533 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=63
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:00,577 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=64
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:00,579 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=63
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:00,581 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=64
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,335 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=65
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,337 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=66
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,340 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=65
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,342 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=66
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,979 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=67
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,988 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=68
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,992 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=67
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:01,994 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=68
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:02,955 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=69
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:02,978 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=70
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:02,981 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=69
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:02,983 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=70
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:03,909 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=71
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:03,912 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=72
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:03,915 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=71
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:03,917 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=72
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:05,173 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=73
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:05,176 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=74
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:05,179 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=73
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:05,181 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=74
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:06,134 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=75
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:06,137 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=76
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:06,140 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=75
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:06,142 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=76
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:07,173 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=77
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:07,176 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=78
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:07,179 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=77
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:07,181 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=78
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:08,058 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=79
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:08,061 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=80
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:08,064 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=79
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:08,066 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=80
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:09,099 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=81
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:09,108 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=82
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:09,111 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=81
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:09,114 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=82
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:10,007 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=83
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:10,010 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=84
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:10,013 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=83
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:10,015 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=84
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:11,336 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=85
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:11,348 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=86
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:11,351 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=85
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:11,353 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=86
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:12,051 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=87
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:12,056 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=88
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:12,058 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=87
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:12,060 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=88
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:13,215 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=89
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:13,218 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=90
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:13,221 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=89
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:13,224 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=90
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:14,459 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=91
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:14,468 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=92
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:14,471 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=91
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:14,472 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=92
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:15,589 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=93
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:15,599 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=94
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:15,601 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=93
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:15,603 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=94
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:16,274 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=95
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:16,277 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=96
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:16,279 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=95
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:16,281 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=96
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:17,413 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=97
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:17,429 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=98
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:17,432 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=97
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:17,435 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=98
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,129 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=99
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,133 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=100
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,135 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=99
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,137 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=100
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,931 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=101
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,935 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=102
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,938 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=101
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:18,940 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=102
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:19,971 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=103
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:19,975 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=104
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:19,978 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=103
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:19,980 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=104
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:20,852 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=105
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:20,855 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=106
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:20,858 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=105
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:20,860 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=106
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:22,132 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=107
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:22,136 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=108
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:22,139 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=107
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:22,142 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=108
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:23,101 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=109
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:23,104 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=110
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:23,106 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=109
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:23,109 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=110
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:24,053 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=111
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:24,056 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=112
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:24,059 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=111
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:24,061 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=112
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,039 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=113
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,053 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=114
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,056 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=113
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,058 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=114
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,973 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=115
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,978 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=116
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,981 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=115
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:25,983 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=116
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:27,253 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=117
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:27,257 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=117
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:27,445 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=118
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:27,447 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=119
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:27,450 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=118
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:27,452 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=119
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:28,235 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=120
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:28,260 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=121
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:28,264 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=120
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:28,267 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=121
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:29,199 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=122
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:29,213 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=123
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:29,216 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=122
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:29,218 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=123
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,156 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=124
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,159 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=125
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,161 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=124
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,163 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=125
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,823 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=126
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,884 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=127
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,887 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=126
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:30,890 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=127
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:31,527 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=128
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:31,529 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=129
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:31,531 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=128
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:31,533 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=129
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:32,237 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=130
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:32,241 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=130
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:32,892 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=131
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:32,895 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=132
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:32,897 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=131
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:32,899 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=132
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:34,486 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=133
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:34,508 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=134
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:34,549 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=133
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:34,551 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=134
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,189 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=135
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,192 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=136
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,195 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=135
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,196 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=136
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,838 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=137
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,841 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=138
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,843 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=137
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:35,845 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=138
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:36,496 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=139
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:36,500 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=140
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:36,503 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=139
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:36,508 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=140
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,163 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=141
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,166 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=142
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,169 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=141
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,171 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=142
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,826 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=143
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,829 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=144
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,831 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=143
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:37,832 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=144
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:38,527 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=145
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:38,530 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=146
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:38,532 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=145
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:38,534 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=146
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:39,568 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=147
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:39,579 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=148
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:39,582 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=147
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:39,584 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=148
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:40,706 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=149
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:40,717 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=150
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:40,720 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=149
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:40,722 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=150
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:41,391 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=151
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:41,404 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=152
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:41,407 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=151
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:41,409 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=152
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:42,309 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=153
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:42,319 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=154
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:42,324 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=153
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:42,335 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=154
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:43,306 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=155
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:43,318 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=156
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:43,320 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=155
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:43,322 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=156
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,062 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=157
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,088 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=158
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,091 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=157
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,094 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=158
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,812 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=159
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,878 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=160
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,976 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=159
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:44,980 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=160
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:45,703 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=161
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:45,705 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=162
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:45,709 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=161
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:45,712 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=162
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:46,395 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=163
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:46,398 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=164
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:46,401 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=163
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:46,403 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=164
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:47,141 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=165
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:47,164 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=166
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:47,169 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=165
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:47,173 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=166
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,056 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=167
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,058 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=168
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,061 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=167
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,063 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=168
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,767 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=169
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,783 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=170
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,785 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=169
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:48,787 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=170
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:49,614 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=171
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:49,628 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=172
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:49,631 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=171
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:49,633 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=172
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,308 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=173
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,319 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=174
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,322 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=173
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,324 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=174
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,977 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=175
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,979 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=176
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,982 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=175
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:50,984 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=176
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:52,280 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=177
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:52,977 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=177
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:54,130 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=178
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:54,133 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=179
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:54,135 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=178
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:54,137 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=179
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:55,111 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=180
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:55,114 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=181
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:55,117 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=180
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:55,120 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=181
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:56,149 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=182
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:56,153 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=183
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:56,155 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=182
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:56,157 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=183
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:57,078 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=184
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:57,089 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=184
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:58,345 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=185
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:58,364 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=186
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:58,368 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=185
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:58,370 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=186
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:59,283 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=187
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:59,294 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=188
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:59,298 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=187
+调用位置为：DatabaseManager.java
+2017-06-30 13:15:59,301 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=188
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:00,706 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=189
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:00,713 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=189
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:01,947 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=190
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:01,961 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=190
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:02,848 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=191
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:02,859 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=192
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:02,862 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=191
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:02,865 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=192
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:03,815 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=193
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:03,838 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=194
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:03,842 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=193
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:03,844 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=194
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:04,756 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=195
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:04,769 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=196
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:04,772 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=195
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:04,775 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=196
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:05,632 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=197
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:05,634 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.query(..))
+openNum=198
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:05,637 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=197
+调用位置为：DatabaseManager.java
+2017-06-30 13:16:05,638 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=198
+调用位置为：DatabaseManager.java

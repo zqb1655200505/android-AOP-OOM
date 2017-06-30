@@ -1,0 +1,138 @@
+2017-06-30 13:59:10,352 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=1
+调用位置为：Query.java
+2017-06-30 13:59:10,366 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=1
+调用位置为：AbstractDao.java
+2017-06-30 13:59:10,588 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=2
+调用位置为：Query.java
+2017-06-30 13:59:10,598 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=2
+调用位置为：AbstractDao.java
+2017-06-30 13:59:13,665 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=3
+调用位置为：Query.java
+2017-06-30 13:59:13,668 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=3
+调用位置为：AbstractDao.java
+2017-06-30 13:59:23,926 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=4
+调用位置为：AbstractDao.java
+2017-06-30 13:59:23,929 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=4
+调用位置为：AbstractDao.java
+2017-06-30 13:59:23,946 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=5
+调用位置为：Query.java
+2017-06-30 13:59:23,949 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=5
+调用位置为：AbstractDao.java
+2017-06-30 13:59:23,969 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=6
+调用位置为：Query.java
+2017-06-30 13:59:23,972 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=6
+调用位置为：AbstractDao.java
+2017-06-30 13:59:23,974 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=7
+调用位置为：Query.java
+2017-06-30 13:59:23,977 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=7
+调用位置为：AbstractDao.java
+2017-06-30 13:59:25,069 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=8
+调用位置为：AbstractDao.java
+2017-06-30 13:59:25,073 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=8
+调用位置为：AbstractDao.java
+2017-06-30 13:59:27,731 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=9
+调用位置为：AbstractDao.java
+2017-06-30 13:59:27,738 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=9
+调用位置为：AbstractDao.java
+2017-06-30 13:59:27,781 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=10
+调用位置为：AbstractDao.java
+2017-06-30 13:59:27,783 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=10
+调用位置为：AbstractDao.java
+2017-06-30 13:59:29,655 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=11
+调用位置为：AbstractDao.java
+2017-06-30 13:59:29,661 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=11
+调用位置为：AbstractDao.java
+2017-06-30 13:59:36,732 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=12
+调用位置为：SearchDatabase.java
+2017-06-30 13:59:36,737 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=12
+调用位置为：SearchDatabase.java
+2017-06-30 13:59:36,747 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=13
+调用位置为：Query.java
+2017-06-30 13:59:36,749 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=13
+调用位置为：AbstractDao.java
+2017-06-30 13:59:46,522 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=14
+调用位置为：AbstractDao.java
+2017-06-30 13:59:46,526 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=14
+调用位置为：AbstractDao.java
+2017-06-30 13:59:48,066 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=15
+调用位置为：AbstractDao.java
+2017-06-30 13:59:48,070 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=15
+调用位置为：AbstractDao.java
+2017-06-30 13:59:53,336 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=16
+调用位置为：SearchDatabase.java
+2017-06-30 13:59:53,339 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=16
+调用位置为：SearchDatabase.java
+2017-06-30 13:59:53,349 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=17
+调用位置为：Query.java
+2017-06-30 13:59:53,351 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=17
+调用位置为：AbstractDao.java
+2017-06-30 13:59:57,806 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=18
+调用位置为：AbstractDao.java
+2017-06-30 13:59:57,808 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=18
+调用位置为：AbstractDao.java
+2017-06-30 13:59:59,317 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=19
+调用位置为：AbstractDao.java
+2017-06-30 13:59:59,321 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=19
+调用位置为：AbstractDao.java
+2017-06-30 13:59:59,324 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=20
+调用位置为：AbstractDao.java
+2017-06-30 13:59:59,327 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=20
+调用位置为：AbstractDao.java
+2017-06-30 14:00:14,352 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=21
+调用位置为：AbstractDao.java
+2017-06-30 14:00:14,355 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=21
+调用位置为：AbstractDao.java
+2017-06-30 14:00:17,936 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=22
+调用位置为：Query.java
+2017-06-30 14:00:17,938 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=22
+调用位置为：AbstractDao.java
+2017-06-30 14:00:17,952 INFO  [aspectJ.TestCursor]-[34] 当前切点：call(SQLiteDatabase.rawQuery(..))
+openNum=23
+调用位置为：SearchDatabase.java
+2017-06-30 14:00:17,956 INFO  [aspectJ.TestCursor]-[51] 当前切点：call(Cursor.close())
+closeNum=23
+调用位置为：SearchDatabase.java
